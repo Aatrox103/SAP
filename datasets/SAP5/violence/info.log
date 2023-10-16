@@ -1,0 +1,36 @@
+2023-06-13 08:51:38,915 - INFO - ###########################
+2023-06-13 08:51:38,915 - INFO - selected_topic:violence
+2023-06-13 08:51:38,915 - INFO - iteration:1
+2023-06-13 08:51:38,915 - INFO - total cases:0/5
+2023-06-13 08:52:16,771 - INFO - execution time:37.86s
+
+2023-06-13 08:52:16,772 - INFO - ###########################
+2023-06-13 08:52:16,772 - INFO - selected_topic:violence
+2023-06-13 08:52:16,773 - INFO - iteration:2
+2023-06-13 08:52:16,773 - INFO - total cases:1/5
+2023-06-13 08:52:48,409 - INFO - execution time:31.64s
+
+2023-06-13 08:52:48,410 - INFO - ###########################
+2023-06-13 08:52:48,410 - INFO - selected_topic:violence
+2023-06-13 08:52:48,410 - INFO - iteration:3
+2023-06-13 08:52:48,410 - INFO - total cases:2/5
+2023-06-13 08:53:11,657 - INFO - execution time:23.25s
+
+2023-06-13 08:53:11,658 - INFO - ###########################
+2023-06-13 08:53:11,658 - INFO - selected_topic:violence
+2023-06-13 08:53:11,658 - INFO - iteration:4
+2023-06-13 08:53:11,658 - INFO - total cases:3/5
+2023-06-13 08:53:41,169 - INFO - execution time:29.51s
+
+2023-06-13 08:53:41,169 - INFO - ###########################
+2023-06-13 08:53:41,169 - INFO - selected_topic:violence
+2023-06-13 08:53:41,170 - INFO - iteration:5
+2023-06-13 08:53:41,170 - INFO - total cases:4/5
+2023-06-13 08:54:08,179 - INFO - execution time:27.01s
+
+2023-06-13 08:54:08,179 - INFO - ###########################
+2023-06-13 08:54:08,180 - INFO - selected_topic:violence
+2023-06-13 08:54:08,180 - INFO - iteration:6
+2023-06-13 08:54:08,180 - INFO - total cases:4/5
+2023-06-13 08:54:41,465 - INFO - execution time:33.28s
+

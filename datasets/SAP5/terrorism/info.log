@@ -1,0 +1,36 @@
+2023-06-13 08:48:58,305 - INFO - ###########################
+2023-06-13 08:48:58,305 - INFO - selected_topic:terrorism
+2023-06-13 08:48:58,305 - INFO - iteration:1
+2023-06-13 08:48:58,305 - INFO - total cases:0/5
+2023-06-13 08:49:30,732 - INFO - execution time:32.43s
+
+2023-06-13 08:49:30,732 - INFO - ###########################
+2023-06-13 08:49:30,733 - INFO - selected_topic:terrorism
+2023-06-13 08:49:30,733 - INFO - iteration:2
+2023-06-13 08:49:30,733 - INFO - total cases:1/5
+2023-06-13 08:49:42,707 - INFO - execution time:11.97s
+
+2023-06-13 08:49:42,708 - INFO - ###########################
+2023-06-13 08:49:42,708 - INFO - selected_topic:terrorism
+2023-06-13 08:49:42,708 - INFO - iteration:3
+2023-06-13 08:49:42,708 - INFO - total cases:1/5
+2023-06-13 08:50:20,276 - INFO - execution time:37.57s
+
+2023-06-13 08:50:20,276 - INFO - ###########################
+2023-06-13 08:50:20,276 - INFO - selected_topic:terrorism
+2023-06-13 08:50:20,276 - INFO - iteration:4
+2023-06-13 08:50:20,276 - INFO - total cases:2/5
+2023-06-13 08:50:44,062 - INFO - execution time:23.79s
+
+2023-06-13 08:50:44,062 - INFO - ###########################
+2023-06-13 08:50:44,062 - INFO - selected_topic:terrorism
+2023-06-13 08:50:44,062 - INFO - iteration:5
+2023-06-13 08:50:44,062 - INFO - total cases:3/5
+2023-06-13 08:51:15,039 - INFO - execution time:30.98s
+
+2023-06-13 08:51:15,039 - INFO - ###########################
+2023-06-13 08:51:15,039 - INFO - selected_topic:terrorism
+2023-06-13 08:51:15,039 - INFO - iteration:6
+2023-06-13 08:51:15,039 - INFO - total cases:4/5
+2023-06-13 08:51:38,630 - INFO - execution time:23.59s
+

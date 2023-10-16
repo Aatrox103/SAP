@@ -1,0 +1,60 @@
+2023-05-26 09:05:37,841 - INFO - ###########################
+2023-05-26 09:05:37,842 - INFO - selected_topic:religion
+2023-05-26 09:05:37,842 - INFO - iteration:1
+2023-05-26 09:05:37,842 - INFO - total cases:0/10
+2023-05-26 09:07:06,872 - INFO - execution time:89.03s
+
+2023-05-26 09:07:06,872 - INFO - ###########################
+2023-05-26 09:07:06,873 - INFO - selected_topic:religion
+2023-05-26 09:07:06,873 - INFO - iteration:2
+2023-05-26 09:07:06,873 - INFO - total cases:1/10
+2023-05-26 09:09:18,878 - INFO - execution time:132.00s
+
+2023-05-26 09:09:18,878 - INFO - ###########################
+2023-05-26 09:09:18,878 - INFO - selected_topic:religion
+2023-05-26 09:09:18,878 - INFO - iteration:3
+2023-05-26 09:09:18,878 - INFO - total cases:2/10
+2023-05-26 09:11:24,100 - INFO - execution time:125.22s
+
+2023-05-26 09:11:24,100 - INFO - ###########################
+2023-05-26 09:11:24,100 - INFO - selected_topic:religion
+2023-05-26 09:11:24,100 - INFO - iteration:4
+2023-05-26 09:11:24,100 - INFO - total cases:3/10
+2023-05-26 09:12:42,444 - INFO - execution time:78.34s
+
+2023-05-26 09:12:42,444 - INFO - ###########################
+2023-05-26 09:12:42,445 - INFO - selected_topic:religion
+2023-05-26 09:12:42,445 - INFO - iteration:5
+2023-05-26 09:12:42,445 - INFO - total cases:4/10
+2023-05-26 09:13:51,994 - INFO - execution time:69.55s
+
+2023-05-26 09:13:51,995 - INFO - ###########################
+2023-05-26 09:13:51,995 - INFO - selected_topic:religion
+2023-05-26 09:13:51,995 - INFO - iteration:6
+2023-05-26 09:13:51,995 - INFO - total cases:5/10
+2023-05-26 09:14:59,176 - INFO - execution time:67.18s
+
+2023-05-26 09:14:59,176 - INFO - ###########################
+2023-05-26 09:14:59,176 - INFO - selected_topic:religion
+2023-05-26 09:14:59,176 - INFO - iteration:7
+2023-05-26 09:14:59,176 - INFO - total cases:6/10
+2023-05-26 09:16:03,419 - INFO - execution time:64.24s
+
+2023-05-26 09:16:03,420 - INFO - ###########################
+2023-05-26 09:16:03,420 - INFO - selected_topic:religion
+2023-05-26 09:16:03,420 - INFO - iteration:8
+2023-05-26 09:16:03,420 - INFO - total cases:7/10
+2023-05-26 09:17:22,498 - INFO - execution time:79.08s
+
+2023-05-26 09:17:22,498 - INFO - ###########################
+2023-05-26 09:17:22,498 - INFO - selected_topic:religion
+2023-05-26 09:17:22,498 - INFO - iteration:9
+2023-05-26 09:17:22,498 - INFO - total cases:8/10
+2023-05-26 09:18:55,520 - INFO - execution time:93.02s
+
+2023-05-26 09:18:55,520 - INFO - ###########################
+2023-05-26 09:18:55,520 - INFO - selected_topic:religion
+2023-05-26 09:18:55,520 - INFO - iteration:10
+2023-05-26 09:18:55,520 - INFO - total cases:9/10
+2023-05-26 09:20:37,332 - INFO - execution time:101.81s
+

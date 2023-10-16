@@ -1,0 +1,1859 @@
+2023-06-01 18:48:25,192 - INFO - ###########################
+2023-06-01 18:48:25,192 - INFO - selected_topic:politics
+2023-06-01 18:48:25,193 - INFO - iteration:1
+2023-06-01 18:48:25,193 - INFO - total cases:0/200
+2023-06-01 18:49:26,869 - INFO - execution time:61.68s
+
+2023-06-01 18:49:26,869 - INFO - ###########################
+2023-06-01 18:49:26,869 - INFO - selected_topic:politics
+2023-06-01 18:49:26,869 - INFO - iteration:2
+2023-06-01 18:49:26,869 - INFO - total cases:1/200
+2023-06-01 18:51:16,412 - INFO - execution time:109.54s
+
+2023-06-01 18:51:16,412 - INFO - ###########################
+2023-06-01 18:51:16,412 - INFO - selected_topic:politics
+2023-06-01 18:51:16,412 - INFO - iteration:3
+2023-06-01 18:51:16,412 - INFO - total cases:2/200
+2023-06-01 18:52:12,091 - INFO - execution time:55.68s
+
+2023-06-01 18:52:12,092 - INFO - ###########################
+2023-06-01 18:52:12,092 - INFO - selected_topic:politics
+2023-06-01 18:52:12,092 - INFO - iteration:4
+2023-06-01 18:52:12,093 - INFO - total cases:3/200
+2023-06-01 18:53:16,662 - INFO - execution time:64.57s
+
+2023-06-01 18:53:16,662 - INFO - ###########################
+2023-06-01 18:53:16,662 - INFO - selected_topic:politics
+2023-06-01 18:53:16,662 - INFO - iteration:5
+2023-06-01 18:53:16,663 - INFO - total cases:4/200
+2023-06-01 18:54:03,751 - INFO - execution time:47.09s
+
+2023-06-01 18:54:03,751 - INFO - ###########################
+2023-06-01 18:54:03,752 - INFO - selected_topic:politics
+2023-06-01 18:54:03,752 - INFO - iteration:6
+2023-06-01 18:54:03,752 - INFO - total cases:5/200
+2023-06-01 18:55:00,347 - INFO - execution time:56.60s
+
+2023-06-01 18:55:00,347 - INFO - ###########################
+2023-06-01 18:55:00,347 - INFO - selected_topic:politics
+2023-06-01 18:55:00,347 - INFO - iteration:7
+2023-06-01 18:55:00,348 - INFO - total cases:6/200
+2023-06-01 18:56:03,264 - INFO - execution time:62.92s
+
+2023-06-01 18:56:03,264 - INFO - ###########################
+2023-06-01 18:56:03,264 - INFO - selected_topic:politics
+2023-06-01 18:56:03,264 - INFO - iteration:8
+2023-06-01 18:56:03,264 - INFO - total cases:7/200
+2023-06-01 18:56:47,422 - INFO - execution time:44.16s
+
+2023-06-01 18:56:47,423 - INFO - ###########################
+2023-06-01 18:56:47,423 - INFO - selected_topic:politics
+2023-06-01 18:56:47,423 - INFO - iteration:9
+2023-06-01 18:56:47,423 - INFO - total cases:7/200
+2023-06-01 18:57:21,068 - INFO - execution time:33.65s
+
+2023-06-01 18:57:21,069 - INFO - ###########################
+2023-06-01 18:57:21,069 - INFO - selected_topic:politics
+2023-06-01 18:57:21,069 - INFO - iteration:10
+2023-06-01 18:57:21,069 - INFO - total cases:7/200
+2023-06-01 18:58:24,697 - INFO - execution time:63.63s
+
+2023-06-01 18:58:24,697 - INFO - ###########################
+2023-06-01 18:58:24,697 - INFO - selected_topic:politics
+2023-06-01 18:58:24,697 - INFO - iteration:11
+2023-06-01 18:58:24,698 - INFO - total cases:8/200
+2023-06-01 18:59:27,474 - INFO - execution time:62.78s
+
+2023-06-01 18:59:27,475 - INFO - ###########################
+2023-06-01 18:59:27,475 - INFO - selected_topic:politics
+2023-06-01 18:59:27,475 - INFO - iteration:12
+2023-06-01 18:59:27,475 - INFO - total cases:9/200
+2023-06-01 19:00:08,968 - INFO - execution time:41.49s
+
+2023-06-01 19:00:08,968 - INFO - ###########################
+2023-06-01 19:00:08,968 - INFO - selected_topic:politics
+2023-06-01 19:00:08,968 - INFO - iteration:13
+2023-06-01 19:00:08,968 - INFO - total cases:9/200
+2023-06-01 19:01:17,884 - INFO - execution time:68.92s
+
+2023-06-01 19:01:17,884 - INFO - ###########################
+2023-06-01 19:01:17,884 - INFO - selected_topic:politics
+2023-06-01 19:01:17,884 - INFO - iteration:14
+2023-06-01 19:01:17,884 - INFO - total cases:9/200
+2023-06-01 19:02:06,909 - INFO - execution time:49.02s
+
+2023-06-01 19:02:06,910 - INFO - ###########################
+2023-06-01 19:02:06,910 - INFO - selected_topic:politics
+2023-06-01 19:02:06,910 - INFO - iteration:15
+2023-06-01 19:02:06,910 - INFO - total cases:10/200
+2023-06-01 19:03:08,623 - INFO - execution time:61.71s
+
+2023-06-01 19:03:08,623 - INFO - ###########################
+2023-06-01 19:03:08,623 - INFO - selected_topic:politics
+2023-06-01 19:03:08,624 - INFO - iteration:16
+2023-06-01 19:03:08,624 - INFO - total cases:11/200
+2023-06-01 19:05:52,929 - INFO - execution time:164.31s
+
+2023-06-01 19:05:52,930 - INFO - ###########################
+2023-06-01 19:05:52,930 - INFO - selected_topic:politics
+2023-06-01 19:05:52,930 - INFO - iteration:17
+2023-06-01 19:05:52,930 - INFO - total cases:11/200
+2023-06-01 19:06:51,207 - INFO - execution time:58.28s
+
+2023-06-01 19:06:51,207 - INFO - ###########################
+2023-06-01 19:06:51,207 - INFO - selected_topic:politics
+2023-06-01 19:06:51,207 - INFO - iteration:18
+2023-06-01 19:06:51,207 - INFO - total cases:12/200
+2023-06-01 19:07:38,783 - INFO - execution time:47.58s
+
+2023-06-01 19:07:38,783 - INFO - ###########################
+2023-06-01 19:07:38,784 - INFO - selected_topic:politics
+2023-06-01 19:07:38,784 - INFO - iteration:19
+2023-06-01 19:07:38,784 - INFO - total cases:13/200
+2023-06-01 19:08:03,596 - INFO - execution time:24.81s
+
+2023-06-01 19:08:03,596 - INFO - ###########################
+2023-06-01 19:08:03,596 - INFO - selected_topic:politics
+2023-06-01 19:08:03,596 - INFO - iteration:20
+2023-06-01 19:08:03,596 - INFO - total cases:13/200
+2023-06-01 19:08:58,297 - INFO - execution time:54.70s
+
+2023-06-01 19:08:58,297 - INFO - ###########################
+2023-06-01 19:08:58,297 - INFO - selected_topic:politics
+2023-06-01 19:08:58,297 - INFO - iteration:21
+2023-06-01 19:08:58,297 - INFO - total cases:14/200
+2023-06-01 19:09:45,111 - INFO - execution time:46.81s
+
+2023-06-01 19:09:45,112 - INFO - ###########################
+2023-06-01 19:09:45,112 - INFO - selected_topic:politics
+2023-06-01 19:09:45,112 - INFO - iteration:22
+2023-06-01 19:09:45,112 - INFO - total cases:15/200
+2023-06-01 19:10:51,633 - INFO - execution time:66.52s
+
+2023-06-01 19:10:51,634 - INFO - ###########################
+2023-06-01 19:10:51,634 - INFO - selected_topic:politics
+2023-06-01 19:10:51,634 - INFO - iteration:23
+2023-06-01 19:10:51,634 - INFO - total cases:16/200
+2023-06-01 19:12:15,345 - INFO - execution time:83.71s
+
+2023-06-01 19:12:15,345 - INFO - ###########################
+2023-06-01 19:12:15,345 - INFO - selected_topic:politics
+2023-06-01 19:12:15,345 - INFO - iteration:24
+2023-06-01 19:12:15,345 - INFO - total cases:16/200
+2023-06-01 19:13:15,733 - INFO - execution time:60.39s
+
+2023-06-01 19:13:15,733 - INFO - ###########################
+2023-06-01 19:13:15,733 - INFO - selected_topic:politics
+2023-06-01 19:13:15,733 - INFO - iteration:25
+2023-06-01 19:13:15,733 - INFO - total cases:17/200
+2023-06-01 19:13:53,267 - INFO - execution time:37.53s
+
+2023-06-01 19:13:53,267 - INFO - ###########################
+2023-06-01 19:13:53,267 - INFO - selected_topic:politics
+2023-06-01 19:13:53,267 - INFO - iteration:26
+2023-06-01 19:13:53,268 - INFO - total cases:17/200
+2023-06-01 19:14:45,305 - INFO - execution time:52.04s
+
+2023-06-01 19:14:45,305 - INFO - ###########################
+2023-06-01 19:14:45,306 - INFO - selected_topic:politics
+2023-06-01 19:14:45,306 - INFO - iteration:27
+2023-06-01 19:14:45,306 - INFO - total cases:18/200
+2023-06-01 19:15:50,610 - INFO - execution time:65.30s
+
+2023-06-01 19:15:50,610 - INFO - ###########################
+2023-06-01 19:15:50,610 - INFO - selected_topic:politics
+2023-06-01 19:15:50,610 - INFO - iteration:28
+2023-06-01 19:15:50,610 - INFO - total cases:19/200
+2023-06-01 19:16:28,262 - INFO - execution time:37.65s
+
+2023-06-01 19:16:28,262 - INFO - ###########################
+2023-06-01 19:16:28,262 - INFO - selected_topic:politics
+2023-06-01 19:16:28,262 - INFO - iteration:29
+2023-06-01 19:16:28,262 - INFO - total cases:19/200
+2023-06-01 19:17:32,041 - INFO - execution time:63.78s
+
+2023-06-01 19:17:32,041 - INFO - ###########################
+2023-06-01 19:17:32,041 - INFO - selected_topic:politics
+2023-06-01 19:17:32,042 - INFO - iteration:30
+2023-06-01 19:17:32,042 - INFO - total cases:20/200
+2023-06-01 19:18:41,285 - INFO - execution time:69.24s
+
+2023-06-01 19:18:41,285 - INFO - ###########################
+2023-06-01 19:18:41,285 - INFO - selected_topic:politics
+2023-06-01 19:18:41,286 - INFO - iteration:31
+2023-06-01 19:18:41,286 - INFO - total cases:21/200
+2023-06-01 19:19:37,218 - INFO - execution time:55.93s
+
+2023-06-01 19:19:37,218 - INFO - ###########################
+2023-06-01 19:19:37,219 - INFO - selected_topic:politics
+2023-06-01 19:19:37,219 - INFO - iteration:32
+2023-06-01 19:19:37,219 - INFO - total cases:22/200
+2023-06-01 19:20:16,573 - INFO - execution time:39.35s
+
+2023-06-01 19:20:16,573 - INFO - ###########################
+2023-06-01 19:20:16,573 - INFO - selected_topic:politics
+2023-06-01 19:20:16,573 - INFO - iteration:33
+2023-06-01 19:20:16,573 - INFO - total cases:22/200
+2023-06-01 19:21:18,366 - INFO - execution time:61.79s
+
+2023-06-01 19:21:18,366 - INFO - ###########################
+2023-06-01 19:21:18,366 - INFO - selected_topic:politics
+2023-06-01 19:21:18,366 - INFO - iteration:34
+2023-06-01 19:21:18,366 - INFO - total cases:23/200
+2023-06-01 19:22:25,971 - INFO - execution time:67.60s
+
+2023-06-01 19:22:25,971 - INFO - ###########################
+2023-06-01 19:22:25,971 - INFO - selected_topic:politics
+2023-06-01 19:22:25,971 - INFO - iteration:35
+2023-06-01 19:22:25,971 - INFO - total cases:24/200
+2023-06-01 19:22:48,749 - INFO - The returned result does not meet the requirements
+2023-06-01 19:22:48,749 - INFO - execution time:22.78s
+
+2023-06-01 19:22:48,749 - INFO - ###########################
+2023-06-01 19:22:48,749 - INFO - selected_topic:politics
+2023-06-01 19:22:48,749 - INFO - iteration:36
+2023-06-01 19:22:48,749 - INFO - total cases:24/200
+2023-06-01 19:23:29,905 - INFO - execution time:41.16s
+
+2023-06-01 19:23:29,905 - INFO - ###########################
+2023-06-01 19:23:29,905 - INFO - selected_topic:politics
+2023-06-01 19:23:29,905 - INFO - iteration:37
+2023-06-01 19:23:29,905 - INFO - total cases:24/200
+2023-06-01 19:24:25,484 - INFO - execution time:55.58s
+
+2023-06-01 19:24:25,484 - INFO - ###########################
+2023-06-01 19:24:25,484 - INFO - selected_topic:politics
+2023-06-01 19:24:25,484 - INFO - iteration:38
+2023-06-01 19:24:25,485 - INFO - total cases:25/200
+2023-06-01 19:24:58,954 - INFO - execution time:33.47s
+
+2023-06-01 19:24:58,954 - INFO - ###########################
+2023-06-01 19:24:58,955 - INFO - selected_topic:politics
+2023-06-01 19:24:58,955 - INFO - iteration:39
+2023-06-01 19:24:58,955 - INFO - total cases:25/200
+2023-06-01 19:25:33,730 - INFO - execution time:34.78s
+
+2023-06-01 19:25:33,730 - INFO - ###########################
+2023-06-01 19:25:33,730 - INFO - selected_topic:politics
+2023-06-01 19:25:33,731 - INFO - iteration:40
+2023-06-01 19:25:33,731 - INFO - total cases:25/200
+2023-06-01 19:26:34,045 - INFO - execution time:60.31s
+
+2023-06-01 19:26:34,046 - INFO - ###########################
+2023-06-01 19:26:34,046 - INFO - selected_topic:politics
+2023-06-01 19:26:34,046 - INFO - iteration:41
+2023-06-01 19:26:34,046 - INFO - total cases:26/200
+2023-06-01 19:27:18,393 - INFO - execution time:44.35s
+
+2023-06-01 19:27:18,393 - INFO - ###########################
+2023-06-01 19:27:18,394 - INFO - selected_topic:politics
+2023-06-01 19:27:18,394 - INFO - iteration:42
+2023-06-01 19:27:18,394 - INFO - total cases:27/200
+2023-06-01 19:28:05,873 - INFO - execution time:47.48s
+
+2023-06-01 19:28:05,874 - INFO - ###########################
+2023-06-01 19:28:05,874 - INFO - selected_topic:politics
+2023-06-01 19:28:05,874 - INFO - iteration:43
+2023-06-01 19:28:05,874 - INFO - total cases:28/200
+2023-06-01 19:29:02,900 - INFO - execution time:57.03s
+
+2023-06-01 19:29:02,901 - INFO - ###########################
+2023-06-01 19:29:02,901 - INFO - selected_topic:politics
+2023-06-01 19:29:02,901 - INFO - iteration:44
+2023-06-01 19:29:02,901 - INFO - total cases:29/200
+2023-06-01 19:29:56,875 - INFO - execution time:53.97s
+
+2023-06-01 19:29:56,875 - INFO - ###########################
+2023-06-01 19:29:56,875 - INFO - selected_topic:politics
+2023-06-01 19:29:56,875 - INFO - iteration:45
+2023-06-01 19:29:56,875 - INFO - total cases:30/200
+2023-06-01 19:30:47,797 - INFO - execution time:50.92s
+
+2023-06-01 19:30:47,797 - INFO - ###########################
+2023-06-01 19:30:47,797 - INFO - selected_topic:politics
+2023-06-01 19:30:47,798 - INFO - iteration:46
+2023-06-01 19:30:47,798 - INFO - total cases:31/200
+2023-06-01 19:32:03,081 - INFO - execution time:75.28s
+
+2023-06-01 19:32:03,081 - INFO - ###########################
+2023-06-01 19:32:03,082 - INFO - selected_topic:politics
+2023-06-01 19:32:03,082 - INFO - iteration:47
+2023-06-01 19:32:03,082 - INFO - total cases:32/200
+2023-06-01 19:32:55,506 - INFO - execution time:52.42s
+
+2023-06-01 19:32:55,507 - INFO - ###########################
+2023-06-01 19:32:55,507 - INFO - selected_topic:politics
+2023-06-01 19:32:55,507 - INFO - iteration:48
+2023-06-01 19:32:55,507 - INFO - total cases:33/200
+2023-06-01 19:33:47,071 - INFO - execution time:51.56s
+
+2023-06-01 19:33:47,072 - INFO - ###########################
+2023-06-01 19:33:47,072 - INFO - selected_topic:politics
+2023-06-01 19:33:47,072 - INFO - iteration:49
+2023-06-01 19:33:47,072 - INFO - total cases:34/200
+2023-06-01 19:34:42,489 - INFO - execution time:55.42s
+
+2023-06-01 19:34:42,490 - INFO - ###########################
+2023-06-01 19:34:42,490 - INFO - selected_topic:politics
+2023-06-01 19:34:42,490 - INFO - iteration:50
+2023-06-01 19:34:42,490 - INFO - total cases:35/200
+2023-06-01 19:35:16,783 - INFO - execution time:34.29s
+
+2023-06-01 19:35:16,783 - INFO - ###########################
+2023-06-01 19:35:16,783 - INFO - selected_topic:politics
+2023-06-01 19:35:16,783 - INFO - iteration:51
+2023-06-01 19:35:16,783 - INFO - total cases:35/200
+2023-06-01 19:36:07,588 - INFO - execution time:50.80s
+
+2023-06-01 19:36:07,588 - INFO - ###########################
+2023-06-01 19:36:07,588 - INFO - selected_topic:politics
+2023-06-01 19:36:07,588 - INFO - iteration:52
+2023-06-01 19:36:07,589 - INFO - total cases:36/200
+2023-06-01 19:36:43,503 - INFO - execution time:35.91s
+
+2023-06-01 19:36:43,504 - INFO - ###########################
+2023-06-01 19:36:43,504 - INFO - selected_topic:politics
+2023-06-01 19:36:43,504 - INFO - iteration:53
+2023-06-01 19:36:43,504 - INFO - total cases:36/200
+2023-06-01 19:37:47,505 - INFO - execution time:64.00s
+
+2023-06-01 19:37:47,506 - INFO - ###########################
+2023-06-01 19:37:47,506 - INFO - selected_topic:politics
+2023-06-01 19:37:47,506 - INFO - iteration:54
+2023-06-01 19:37:47,506 - INFO - total cases:37/200
+2023-06-01 19:38:44,485 - INFO - execution time:56.98s
+
+2023-06-01 19:38:44,485 - INFO - ###########################
+2023-06-01 19:38:44,485 - INFO - selected_topic:politics
+2023-06-01 19:38:44,486 - INFO - iteration:55
+2023-06-01 19:38:44,486 - INFO - total cases:38/200
+2023-06-01 19:39:20,237 - INFO - execution time:35.75s
+
+2023-06-01 19:39:20,237 - INFO - ###########################
+2023-06-01 19:39:20,237 - INFO - selected_topic:politics
+2023-06-01 19:39:20,238 - INFO - iteration:56
+2023-06-01 19:39:20,238 - INFO - total cases:38/200
+2023-06-01 19:40:07,115 - INFO - execution time:46.88s
+
+2023-06-01 19:40:07,117 - INFO - ###########################
+2023-06-01 19:40:07,117 - INFO - selected_topic:politics
+2023-06-01 19:40:07,117 - INFO - iteration:57
+2023-06-01 19:40:07,117 - INFO - total cases:39/200
+2023-06-01 19:41:15,965 - INFO - execution time:68.85s
+
+2023-06-01 19:41:15,966 - INFO - ###########################
+2023-06-01 19:41:15,967 - INFO - selected_topic:politics
+2023-06-01 19:41:15,967 - INFO - iteration:58
+2023-06-01 19:41:15,967 - INFO - total cases:40/200
+2023-06-01 19:42:21,965 - INFO - execution time:66.00s
+
+2023-06-01 19:42:21,966 - INFO - ###########################
+2023-06-01 19:42:21,966 - INFO - selected_topic:politics
+2023-06-01 19:42:21,966 - INFO - iteration:59
+2023-06-01 19:42:21,966 - INFO - total cases:41/200
+2023-06-01 19:43:00,499 - INFO - execution time:38.53s
+
+2023-06-01 19:43:00,499 - INFO - ###########################
+2023-06-01 19:43:00,499 - INFO - selected_topic:politics
+2023-06-01 19:43:00,499 - INFO - iteration:60
+2023-06-01 19:43:00,499 - INFO - total cases:41/200
+2023-06-01 19:43:50,882 - INFO - execution time:50.38s
+
+2023-06-01 19:43:50,883 - INFO - ###########################
+2023-06-01 19:43:50,883 - INFO - selected_topic:politics
+2023-06-01 19:43:50,883 - INFO - iteration:61
+2023-06-01 19:43:50,883 - INFO - total cases:42/200
+2023-06-01 19:45:03,642 - INFO - execution time:72.76s
+
+2023-06-01 19:45:03,643 - INFO - ###########################
+2023-06-01 19:45:03,643 - INFO - selected_topic:politics
+2023-06-01 19:45:03,643 - INFO - iteration:62
+2023-06-01 19:45:03,643 - INFO - total cases:43/200
+2023-06-01 19:46:01,433 - INFO - execution time:57.79s
+
+2023-06-01 19:46:01,433 - INFO - ###########################
+2023-06-01 19:46:01,433 - INFO - selected_topic:politics
+2023-06-01 19:46:01,434 - INFO - iteration:63
+2023-06-01 19:46:01,434 - INFO - total cases:44/200
+2023-06-01 19:46:57,885 - INFO - execution time:56.45s
+
+2023-06-01 19:46:57,885 - INFO - ###########################
+2023-06-01 19:46:57,885 - INFO - selected_topic:politics
+2023-06-01 19:46:57,885 - INFO - iteration:64
+2023-06-01 19:46:57,885 - INFO - total cases:44/200
+2023-06-01 19:47:58,241 - INFO - execution time:60.36s
+
+2023-06-01 19:47:58,241 - INFO - ###########################
+2023-06-01 19:47:58,241 - INFO - selected_topic:politics
+2023-06-01 19:47:58,241 - INFO - iteration:65
+2023-06-01 19:47:58,241 - INFO - total cases:45/200
+2023-06-01 19:49:02,371 - INFO - execution time:64.13s
+
+2023-06-01 19:49:02,371 - INFO - ###########################
+2023-06-01 19:49:02,372 - INFO - selected_topic:politics
+2023-06-01 19:49:02,372 - INFO - iteration:66
+2023-06-01 19:49:02,372 - INFO - total cases:46/200
+2023-06-01 19:49:52,264 - INFO - execution time:49.89s
+
+2023-06-01 19:49:52,265 - INFO - ###########################
+2023-06-01 19:49:52,265 - INFO - selected_topic:politics
+2023-06-01 19:49:52,265 - INFO - iteration:67
+2023-06-01 19:49:52,265 - INFO - total cases:47/200
+2023-06-01 19:50:57,810 - INFO - execution time:65.54s
+
+2023-06-01 19:50:57,811 - INFO - ###########################
+2023-06-01 19:50:57,811 - INFO - selected_topic:politics
+2023-06-01 19:50:57,811 - INFO - iteration:68
+2023-06-01 19:50:57,811 - INFO - total cases:47/200
+2023-06-01 19:52:11,363 - INFO - execution time:73.55s
+
+2023-06-01 19:52:11,363 - INFO - ###########################
+2023-06-01 19:52:11,363 - INFO - selected_topic:politics
+2023-06-01 19:52:11,363 - INFO - iteration:69
+2023-06-01 19:52:11,363 - INFO - total cases:47/200
+2023-06-01 19:52:47,830 - INFO - execution time:36.47s
+
+2023-06-01 19:52:47,831 - INFO - ###########################
+2023-06-01 19:52:47,831 - INFO - selected_topic:politics
+2023-06-01 19:52:47,831 - INFO - iteration:70
+2023-06-01 19:52:47,831 - INFO - total cases:47/200
+2023-06-01 19:53:24,173 - INFO - execution time:36.34s
+
+2023-06-01 19:53:24,173 - INFO - ###########################
+2023-06-01 19:53:24,173 - INFO - selected_topic:politics
+2023-06-01 19:53:24,173 - INFO - iteration:71
+2023-06-01 19:53:24,173 - INFO - total cases:47/200
+2023-06-01 19:54:22,982 - INFO - execution time:58.81s
+
+2023-06-01 19:54:22,983 - INFO - ###########################
+2023-06-01 19:54:22,983 - INFO - selected_topic:politics
+2023-06-01 19:54:22,983 - INFO - iteration:72
+2023-06-01 19:54:22,983 - INFO - total cases:48/200
+2023-06-01 19:55:01,379 - INFO - execution time:38.39s
+
+2023-06-01 19:55:01,379 - INFO - ###########################
+2023-06-01 19:55:01,379 - INFO - selected_topic:politics
+2023-06-01 19:55:01,379 - INFO - iteration:73
+2023-06-01 19:55:01,379 - INFO - total cases:48/200
+2023-06-01 19:55:50,687 - INFO - execution time:49.31s
+
+2023-06-01 19:55:50,688 - INFO - ###########################
+2023-06-01 19:55:50,688 - INFO - selected_topic:politics
+2023-06-01 19:55:50,688 - INFO - iteration:74
+2023-06-01 19:55:50,688 - INFO - total cases:49/200
+2023-06-01 19:57:11,419 - INFO - execution time:80.73s
+
+2023-06-01 19:57:11,420 - INFO - ###########################
+2023-06-01 19:57:11,420 - INFO - selected_topic:politics
+2023-06-01 19:57:11,420 - INFO - iteration:75
+2023-06-01 19:57:11,420 - INFO - total cases:50/200
+2023-06-01 19:58:10,396 - INFO - execution time:58.98s
+
+2023-06-01 19:58:10,396 - INFO - ###########################
+2023-06-01 19:58:10,396 - INFO - selected_topic:politics
+2023-06-01 19:58:10,396 - INFO - iteration:76
+2023-06-01 19:58:10,396 - INFO - total cases:51/200
+2023-06-01 19:59:12,166 - INFO - execution time:61.77s
+
+2023-06-01 19:59:12,167 - INFO - ###########################
+2023-06-01 19:59:12,167 - INFO - selected_topic:politics
+2023-06-01 19:59:12,167 - INFO - iteration:77
+2023-06-01 19:59:12,167 - INFO - total cases:52/200
+2023-06-01 20:00:09,410 - INFO - execution time:57.24s
+
+2023-06-01 20:00:09,411 - INFO - ###########################
+2023-06-01 20:00:09,411 - INFO - selected_topic:politics
+2023-06-01 20:00:09,411 - INFO - iteration:78
+2023-06-01 20:00:09,411 - INFO - total cases:53/200
+2023-06-01 20:00:44,301 - INFO - execution time:34.89s
+
+2023-06-01 20:00:44,301 - INFO - ###########################
+2023-06-01 20:00:44,301 - INFO - selected_topic:politics
+2023-06-01 20:00:44,301 - INFO - iteration:79
+2023-06-01 20:00:44,301 - INFO - total cases:53/200
+2023-06-01 20:01:35,470 - INFO - execution time:51.17s
+
+2023-06-01 20:01:35,470 - INFO - ###########################
+2023-06-01 20:01:35,470 - INFO - selected_topic:politics
+2023-06-01 20:01:35,470 - INFO - iteration:80
+2023-06-01 20:01:35,470 - INFO - total cases:54/200
+2023-06-01 20:02:27,289 - INFO - execution time:51.82s
+
+2023-06-01 20:02:27,289 - INFO - ###########################
+2023-06-01 20:02:27,289 - INFO - selected_topic:politics
+2023-06-01 20:02:27,289 - INFO - iteration:81
+2023-06-01 20:02:27,289 - INFO - total cases:55/200
+2023-06-01 20:03:24,215 - INFO - execution time:56.93s
+
+2023-06-01 20:03:24,216 - INFO - ###########################
+2023-06-01 20:03:24,216 - INFO - selected_topic:politics
+2023-06-01 20:03:24,216 - INFO - iteration:82
+2023-06-01 20:03:24,216 - INFO - total cases:56/200
+2023-06-01 20:03:50,098 - INFO - execution time:25.88s
+
+2023-06-01 20:03:50,099 - INFO - ###########################
+2023-06-01 20:03:50,099 - INFO - selected_topic:politics
+2023-06-01 20:03:50,099 - INFO - iteration:83
+2023-06-01 20:03:50,099 - INFO - total cases:56/200
+2023-06-01 20:04:50,996 - INFO - execution time:60.90s
+
+2023-06-01 20:04:50,997 - INFO - ###########################
+2023-06-01 20:04:50,997 - INFO - selected_topic:politics
+2023-06-01 20:04:50,997 - INFO - iteration:84
+2023-06-01 20:04:50,997 - INFO - total cases:57/200
+2023-06-01 20:05:55,558 - INFO - execution time:64.56s
+
+2023-06-01 20:05:55,559 - INFO - ###########################
+2023-06-01 20:05:55,559 - INFO - selected_topic:politics
+2023-06-01 20:05:55,559 - INFO - iteration:85
+2023-06-01 20:05:55,559 - INFO - total cases:57/200
+2023-06-01 20:06:39,329 - INFO - execution time:43.77s
+
+2023-06-01 20:06:39,329 - INFO - ###########################
+2023-06-01 20:06:39,329 - INFO - selected_topic:politics
+2023-06-01 20:06:39,329 - INFO - iteration:86
+2023-06-01 20:06:39,330 - INFO - total cases:58/200
+2023-06-01 20:07:34,153 - INFO - execution time:54.82s
+
+2023-06-01 20:07:34,154 - INFO - ###########################
+2023-06-01 20:07:34,154 - INFO - selected_topic:politics
+2023-06-01 20:07:34,154 - INFO - iteration:87
+2023-06-01 20:07:34,154 - INFO - total cases:59/200
+2023-06-01 20:08:16,884 - INFO - execution time:42.73s
+
+2023-06-01 20:08:16,884 - INFO - ###########################
+2023-06-01 20:08:16,884 - INFO - selected_topic:politics
+2023-06-01 20:08:16,884 - INFO - iteration:88
+2023-06-01 20:08:16,884 - INFO - total cases:59/200
+2023-06-01 20:09:09,455 - INFO - execution time:52.57s
+
+2023-06-01 20:09:09,455 - INFO - ###########################
+2023-06-01 20:09:09,455 - INFO - selected_topic:politics
+2023-06-01 20:09:09,455 - INFO - iteration:89
+2023-06-01 20:09:09,455 - INFO - total cases:59/200
+2023-06-01 20:10:38,197 - INFO - execution time:88.74s
+
+2023-06-01 20:10:38,197 - INFO - ###########################
+2023-06-01 20:10:38,197 - INFO - selected_topic:politics
+2023-06-01 20:10:38,197 - INFO - iteration:90
+2023-06-01 20:10:38,197 - INFO - total cases:60/200
+2023-06-01 20:11:09,830 - INFO - execution time:31.63s
+
+2023-06-01 20:11:09,831 - INFO - ###########################
+2023-06-01 20:11:09,832 - INFO - selected_topic:politics
+2023-06-01 20:11:09,832 - INFO - iteration:91
+2023-06-01 20:11:09,832 - INFO - total cases:60/200
+2023-06-01 20:11:48,991 - INFO - execution time:39.16s
+
+2023-06-01 20:11:48,991 - INFO - ###########################
+2023-06-01 20:11:48,991 - INFO - selected_topic:politics
+2023-06-01 20:11:48,991 - INFO - iteration:92
+2023-06-01 20:11:48,991 - INFO - total cases:60/200
+2023-06-01 20:12:19,855 - INFO - The returned result does not meet the requirements
+2023-06-01 20:12:19,855 - INFO - execution time:30.86s
+
+2023-06-01 20:12:19,855 - INFO - ###########################
+2023-06-01 20:12:19,855 - INFO - selected_topic:politics
+2023-06-01 20:12:19,855 - INFO - iteration:93
+2023-06-01 20:12:19,856 - INFO - total cases:60/200
+2023-06-01 20:13:52,981 - INFO - execution time:93.12s
+
+2023-06-01 20:13:52,981 - INFO - ###########################
+2023-06-01 20:13:52,981 - INFO - selected_topic:politics
+2023-06-01 20:13:52,981 - INFO - iteration:94
+2023-06-01 20:13:52,981 - INFO - total cases:61/200
+2023-06-01 20:14:59,890 - INFO - execution time:66.91s
+
+2023-06-01 20:14:59,890 - INFO - ###########################
+2023-06-01 20:14:59,890 - INFO - selected_topic:politics
+2023-06-01 20:14:59,890 - INFO - iteration:95
+2023-06-01 20:14:59,890 - INFO - total cases:62/200
+2023-06-01 20:15:57,263 - INFO - execution time:57.37s
+
+2023-06-01 20:15:57,264 - INFO - ###########################
+2023-06-01 20:15:57,264 - INFO - selected_topic:politics
+2023-06-01 20:15:57,264 - INFO - iteration:96
+2023-06-01 20:15:57,264 - INFO - total cases:63/200
+2023-06-01 20:16:51,668 - INFO - execution time:54.40s
+
+2023-06-01 20:16:51,668 - INFO - ###########################
+2023-06-01 20:16:51,669 - INFO - selected_topic:politics
+2023-06-01 20:16:51,669 - INFO - iteration:97
+2023-06-01 20:16:51,669 - INFO - total cases:64/200
+2023-06-01 20:17:59,602 - INFO - execution time:67.93s
+
+2023-06-01 20:17:59,603 - INFO - ###########################
+2023-06-01 20:17:59,603 - INFO - selected_topic:politics
+2023-06-01 20:17:59,603 - INFO - iteration:98
+2023-06-01 20:17:59,603 - INFO - total cases:64/200
+2023-06-01 20:18:47,569 - INFO - execution time:47.97s
+
+2023-06-01 20:18:47,570 - INFO - ###########################
+2023-06-01 20:18:47,570 - INFO - selected_topic:politics
+2023-06-01 20:18:47,570 - INFO - iteration:99
+2023-06-01 20:18:47,570 - INFO - total cases:65/200
+2023-06-01 20:19:28,021 - INFO - execution time:40.45s
+
+2023-06-01 20:19:28,021 - INFO - ###########################
+2023-06-01 20:19:28,021 - INFO - selected_topic:politics
+2023-06-01 20:19:28,021 - INFO - iteration:100
+2023-06-01 20:19:28,021 - INFO - total cases:66/200
+2023-06-01 20:20:00,217 - INFO - execution time:32.20s
+
+2023-06-01 20:20:00,218 - INFO - ###########################
+2023-06-01 20:20:00,218 - INFO - selected_topic:politics
+2023-06-01 20:20:00,218 - INFO - iteration:101
+2023-06-01 20:20:00,218 - INFO - total cases:66/200
+2023-06-01 20:20:52,306 - INFO - execution time:52.09s
+
+2023-06-01 20:20:52,306 - INFO - ###########################
+2023-06-01 20:20:52,306 - INFO - selected_topic:politics
+2023-06-01 20:20:52,306 - INFO - iteration:102
+2023-06-01 20:20:52,306 - INFO - total cases:67/200
+2023-06-01 20:22:07,005 - INFO - execution time:74.70s
+
+2023-06-01 20:22:07,005 - INFO - ###########################
+2023-06-01 20:22:07,005 - INFO - selected_topic:politics
+2023-06-01 20:22:07,006 - INFO - iteration:103
+2023-06-01 20:22:07,006 - INFO - total cases:68/200
+2023-06-01 20:22:58,602 - INFO - execution time:51.60s
+
+2023-06-01 20:22:58,602 - INFO - ###########################
+2023-06-01 20:22:58,602 - INFO - selected_topic:politics
+2023-06-01 20:22:58,602 - INFO - iteration:104
+2023-06-01 20:22:58,602 - INFO - total cases:69/200
+2023-06-01 20:23:44,375 - INFO - execution time:45.77s
+
+2023-06-01 20:23:44,376 - INFO - ###########################
+2023-06-01 20:23:44,376 - INFO - selected_topic:politics
+2023-06-01 20:23:44,376 - INFO - iteration:105
+2023-06-01 20:23:44,376 - INFO - total cases:69/200
+2023-06-01 20:24:40,026 - INFO - execution time:55.65s
+
+2023-06-01 20:24:40,026 - INFO - ###########################
+2023-06-01 20:24:40,027 - INFO - selected_topic:politics
+2023-06-01 20:24:40,027 - INFO - iteration:106
+2023-06-01 20:24:40,027 - INFO - total cases:70/200
+2023-06-01 20:25:30,991 - INFO - execution time:50.96s
+
+2023-06-01 20:25:30,991 - INFO - ###########################
+2023-06-01 20:25:30,991 - INFO - selected_topic:politics
+2023-06-01 20:25:30,991 - INFO - iteration:107
+2023-06-01 20:25:30,991 - INFO - total cases:71/200
+2023-06-01 20:26:10,907 - INFO - execution time:39.92s
+
+2023-06-01 20:26:10,907 - INFO - ###########################
+2023-06-01 20:26:10,907 - INFO - selected_topic:politics
+2023-06-01 20:26:10,907 - INFO - iteration:108
+2023-06-01 20:26:10,908 - INFO - total cases:71/200
+2023-06-01 20:27:42,884 - INFO - execution time:91.98s
+
+2023-06-01 20:27:42,884 - INFO - ###########################
+2023-06-01 20:27:42,884 - INFO - selected_topic:politics
+2023-06-01 20:27:42,884 - INFO - iteration:109
+2023-06-01 20:27:42,884 - INFO - total cases:72/200
+2023-06-01 20:28:50,510 - INFO - execution time:67.63s
+
+2023-06-01 20:28:50,510 - INFO - ###########################
+2023-06-01 20:28:50,510 - INFO - selected_topic:politics
+2023-06-01 20:28:50,510 - INFO - iteration:110
+2023-06-01 20:28:50,510 - INFO - total cases:72/200
+2023-06-01 20:29:48,346 - INFO - execution time:57.84s
+
+2023-06-01 20:29:48,346 - INFO - ###########################
+2023-06-01 20:29:48,346 - INFO - selected_topic:politics
+2023-06-01 20:29:48,346 - INFO - iteration:111
+2023-06-01 20:29:48,346 - INFO - total cases:73/200
+2023-06-01 20:31:08,204 - INFO - execution time:79.86s
+
+2023-06-01 20:31:08,204 - INFO - ###########################
+2023-06-01 20:31:08,204 - INFO - selected_topic:politics
+2023-06-01 20:31:08,204 - INFO - iteration:112
+2023-06-01 20:31:08,204 - INFO - total cases:74/200
+2023-06-01 20:32:16,360 - INFO - execution time:68.16s
+
+2023-06-01 20:32:16,360 - INFO - ###########################
+2023-06-01 20:32:16,361 - INFO - selected_topic:politics
+2023-06-01 20:32:16,361 - INFO - iteration:113
+2023-06-01 20:32:16,361 - INFO - total cases:75/200
+2023-06-01 20:33:12,036 - INFO - execution time:55.68s
+
+2023-06-01 20:33:12,036 - INFO - ###########################
+2023-06-01 20:33:12,037 - INFO - selected_topic:politics
+2023-06-01 20:33:12,037 - INFO - iteration:114
+2023-06-01 20:33:12,037 - INFO - total cases:76/200
+2023-06-01 20:34:00,596 - INFO - execution time:48.56s
+
+2023-06-01 20:34:00,597 - INFO - ###########################
+2023-06-01 20:34:00,597 - INFO - selected_topic:politics
+2023-06-01 20:34:00,597 - INFO - iteration:115
+2023-06-01 20:34:00,597 - INFO - total cases:77/200
+2023-06-01 20:34:32,391 - INFO - execution time:31.79s
+
+2023-06-01 20:34:32,391 - INFO - ###########################
+2023-06-01 20:34:32,392 - INFO - selected_topic:politics
+2023-06-01 20:34:32,392 - INFO - iteration:116
+2023-06-01 20:34:32,392 - INFO - total cases:77/200
+2023-06-01 20:35:05,228 - INFO - execution time:32.84s
+
+2023-06-01 20:35:05,228 - INFO - ###########################
+2023-06-01 20:35:05,228 - INFO - selected_topic:politics
+2023-06-01 20:35:05,228 - INFO - iteration:117
+2023-06-01 20:35:05,228 - INFO - total cases:77/200
+2023-06-01 20:36:06,752 - INFO - execution time:61.52s
+
+2023-06-01 20:36:06,752 - INFO - ###########################
+2023-06-01 20:36:06,752 - INFO - selected_topic:politics
+2023-06-01 20:36:06,752 - INFO - iteration:118
+2023-06-01 20:36:06,753 - INFO - total cases:78/200
+2023-06-01 20:37:01,375 - INFO - execution time:54.62s
+
+2023-06-01 20:37:01,375 - INFO - ###########################
+2023-06-01 20:37:01,375 - INFO - selected_topic:politics
+2023-06-01 20:37:01,375 - INFO - iteration:119
+2023-06-01 20:37:01,376 - INFO - total cases:79/200
+2023-06-01 20:37:42,645 - INFO - execution time:41.27s
+
+2023-06-01 20:37:42,645 - INFO - ###########################
+2023-06-01 20:37:42,645 - INFO - selected_topic:politics
+2023-06-01 20:37:42,645 - INFO - iteration:120
+2023-06-01 20:37:42,645 - INFO - total cases:80/200
+2023-06-01 20:38:26,752 - INFO - execution time:44.11s
+
+2023-06-01 20:38:26,753 - INFO - ###########################
+2023-06-01 20:38:26,753 - INFO - selected_topic:politics
+2023-06-01 20:38:26,753 - INFO - iteration:121
+2023-06-01 20:38:26,753 - INFO - total cases:80/200
+2023-06-01 20:39:53,035 - INFO - execution time:86.28s
+
+2023-06-01 20:39:53,035 - INFO - ###########################
+2023-06-01 20:39:53,035 - INFO - selected_topic:politics
+2023-06-01 20:39:53,036 - INFO - iteration:122
+2023-06-01 20:39:53,036 - INFO - total cases:81/200
+2023-06-01 20:40:29,218 - INFO - execution time:36.18s
+
+2023-06-01 20:40:29,220 - INFO - ###########################
+2023-06-01 20:40:29,220 - INFO - selected_topic:politics
+2023-06-01 20:40:29,220 - INFO - iteration:123
+2023-06-01 20:40:29,220 - INFO - total cases:81/200
+2023-06-01 20:41:38,045 - INFO - execution time:68.82s
+
+2023-06-01 20:41:38,045 - INFO - ###########################
+2023-06-01 20:41:38,045 - INFO - selected_topic:politics
+2023-06-01 20:41:38,046 - INFO - iteration:124
+2023-06-01 20:41:38,046 - INFO - total cases:82/200
+2023-06-01 20:42:37,373 - INFO - execution time:59.33s
+
+2023-06-01 20:42:37,374 - INFO - ###########################
+2023-06-01 20:42:37,374 - INFO - selected_topic:politics
+2023-06-01 20:42:37,374 - INFO - iteration:125
+2023-06-01 20:42:37,374 - INFO - total cases:83/200
+2023-06-01 20:43:34,091 - INFO - execution time:56.72s
+
+2023-06-01 20:43:34,091 - INFO - ###########################
+2023-06-01 20:43:34,091 - INFO - selected_topic:politics
+2023-06-01 20:43:34,091 - INFO - iteration:126
+2023-06-01 20:43:34,091 - INFO - total cases:84/200
+2023-06-01 20:44:17,378 - INFO - execution time:43.29s
+
+2023-06-01 20:44:17,378 - INFO - ###########################
+2023-06-01 20:44:17,378 - INFO - selected_topic:politics
+2023-06-01 20:44:17,379 - INFO - iteration:127
+2023-06-01 20:44:17,379 - INFO - total cases:84/200
+2023-06-01 20:45:07,941 - INFO - execution time:50.56s
+
+2023-06-01 20:45:07,941 - INFO - ###########################
+2023-06-01 20:45:07,941 - INFO - selected_topic:politics
+2023-06-01 20:45:07,941 - INFO - iteration:128
+2023-06-01 20:45:07,942 - INFO - total cases:85/200
+2023-06-01 20:46:08,078 - INFO - execution time:60.14s
+
+2023-06-01 20:46:08,078 - INFO - ###########################
+2023-06-01 20:46:08,078 - INFO - selected_topic:politics
+2023-06-01 20:46:08,078 - INFO - iteration:129
+2023-06-01 20:46:08,078 - INFO - total cases:86/200
+2023-06-01 20:46:59,088 - INFO - execution time:51.01s
+
+2023-06-01 20:46:59,089 - INFO - ###########################
+2023-06-01 20:46:59,089 - INFO - selected_topic:politics
+2023-06-01 20:46:59,089 - INFO - iteration:130
+2023-06-01 20:46:59,089 - INFO - total cases:87/200
+2023-06-01 20:47:27,579 - INFO - execution time:28.49s
+
+2023-06-01 20:47:27,579 - INFO - ###########################
+2023-06-01 20:47:27,580 - INFO - selected_topic:politics
+2023-06-01 20:47:27,580 - INFO - iteration:131
+2023-06-01 20:47:27,580 - INFO - total cases:87/200
+2023-06-01 20:47:55,638 - INFO - execution time:28.06s
+
+2023-06-01 20:47:55,638 - INFO - ###########################
+2023-06-01 20:47:55,639 - INFO - selected_topic:politics
+2023-06-01 20:47:55,639 - INFO - iteration:132
+2023-06-01 20:47:55,639 - INFO - total cases:87/200
+2023-06-01 20:48:34,705 - INFO - execution time:39.07s
+
+2023-06-01 20:48:34,705 - INFO - ###########################
+2023-06-01 20:48:34,705 - INFO - selected_topic:politics
+2023-06-01 20:48:34,705 - INFO - iteration:133
+2023-06-01 20:48:34,705 - INFO - total cases:87/200
+2023-06-01 20:50:04,034 - INFO - execution time:89.33s
+
+2023-06-01 20:50:04,034 - INFO - ###########################
+2023-06-01 20:50:04,035 - INFO - selected_topic:politics
+2023-06-01 20:50:04,035 - INFO - iteration:134
+2023-06-01 20:50:04,035 - INFO - total cases:88/200
+2023-06-01 20:50:55,941 - INFO - execution time:51.91s
+
+2023-06-01 20:50:55,942 - INFO - ###########################
+2023-06-01 20:50:55,942 - INFO - selected_topic:politics
+2023-06-01 20:50:55,942 - INFO - iteration:135
+2023-06-01 20:50:55,942 - INFO - total cases:89/200
+2023-06-01 20:51:41,518 - INFO - execution time:45.58s
+
+2023-06-01 20:51:41,518 - INFO - ###########################
+2023-06-01 20:51:41,518 - INFO - selected_topic:politics
+2023-06-01 20:51:41,518 - INFO - iteration:136
+2023-06-01 20:51:41,519 - INFO - total cases:90/200
+2023-06-01 20:52:44,501 - INFO - execution time:62.98s
+
+2023-06-01 20:52:44,502 - INFO - ###########################
+2023-06-01 20:52:44,502 - INFO - selected_topic:politics
+2023-06-01 20:52:44,502 - INFO - iteration:137
+2023-06-01 20:52:44,502 - INFO - total cases:91/200
+2023-06-01 20:53:39,824 - INFO - execution time:55.32s
+
+2023-06-01 20:53:39,824 - INFO - ###########################
+2023-06-01 20:53:39,824 - INFO - selected_topic:politics
+2023-06-01 20:53:39,824 - INFO - iteration:138
+2023-06-01 20:53:39,824 - INFO - total cases:92/200
+2023-06-01 20:54:26,816 - INFO - execution time:46.99s
+
+2023-06-01 20:54:26,817 - INFO - ###########################
+2023-06-01 20:54:26,817 - INFO - selected_topic:politics
+2023-06-01 20:54:26,817 - INFO - iteration:139
+2023-06-01 20:54:26,817 - INFO - total cases:93/200
+2023-06-01 20:55:27,394 - INFO - execution time:60.58s
+
+2023-06-01 20:55:27,394 - INFO - ###########################
+2023-06-01 20:55:27,394 - INFO - selected_topic:politics
+2023-06-01 20:55:27,394 - INFO - iteration:140
+2023-06-01 20:55:27,394 - INFO - total cases:94/200
+2023-06-01 20:56:22,055 - INFO - execution time:54.66s
+
+2023-06-01 20:56:22,056 - INFO - ###########################
+2023-06-01 20:56:22,056 - INFO - selected_topic:politics
+2023-06-01 20:56:22,056 - INFO - iteration:141
+2023-06-01 20:56:22,056 - INFO - total cases:95/200
+2023-06-01 20:57:14,040 - INFO - execution time:51.98s
+
+2023-06-01 20:57:14,040 - INFO - ###########################
+2023-06-01 20:57:14,040 - INFO - selected_topic:politics
+2023-06-01 20:57:14,040 - INFO - iteration:142
+2023-06-01 20:57:14,040 - INFO - total cases:96/200
+2023-06-01 20:58:09,369 - INFO - execution time:55.33s
+
+2023-06-01 20:58:09,369 - INFO - ###########################
+2023-06-01 20:58:09,370 - INFO - selected_topic:politics
+2023-06-01 20:58:09,370 - INFO - iteration:143
+2023-06-01 20:58:09,370 - INFO - total cases:97/200
+2023-06-01 20:59:00,690 - INFO - execution time:51.32s
+
+2023-06-01 20:59:00,690 - INFO - ###########################
+2023-06-01 20:59:00,690 - INFO - selected_topic:politics
+2023-06-01 20:59:00,690 - INFO - iteration:144
+2023-06-01 20:59:00,690 - INFO - total cases:98/200
+2023-06-01 20:59:45,846 - INFO - execution time:45.16s
+
+2023-06-01 20:59:45,847 - INFO - ###########################
+2023-06-01 20:59:45,847 - INFO - selected_topic:politics
+2023-06-01 20:59:45,847 - INFO - iteration:145
+2023-06-01 20:59:45,847 - INFO - total cases:99/200
+2023-06-01 21:00:41,314 - INFO - execution time:55.47s
+
+2023-06-01 21:00:41,314 - INFO - ###########################
+2023-06-01 21:00:41,314 - INFO - selected_topic:politics
+2023-06-01 21:00:41,314 - INFO - iteration:146
+2023-06-01 21:00:41,314 - INFO - total cases:99/200
+2023-06-01 21:01:15,254 - INFO - execution time:33.94s
+
+2023-06-01 21:01:15,255 - INFO - ###########################
+2023-06-01 21:01:15,255 - INFO - selected_topic:politics
+2023-06-01 21:01:15,255 - INFO - iteration:147
+2023-06-01 21:01:15,255 - INFO - total cases:99/200
+2023-06-01 21:02:16,145 - INFO - execution time:60.89s
+
+2023-06-01 21:02:16,145 - INFO - ###########################
+2023-06-01 21:02:16,145 - INFO - selected_topic:politics
+2023-06-01 21:02:16,145 - INFO - iteration:148
+2023-06-01 21:02:16,145 - INFO - total cases:100/200
+2023-06-01 21:03:05,014 - INFO - execution time:48.87s
+
+2023-06-01 21:03:05,015 - INFO - ###########################
+2023-06-01 21:03:05,015 - INFO - selected_topic:politics
+2023-06-01 21:03:05,015 - INFO - iteration:149
+2023-06-01 21:03:05,015 - INFO - total cases:101/200
+2023-06-01 21:04:17,087 - INFO - execution time:72.07s
+
+2023-06-01 21:04:17,087 - INFO - ###########################
+2023-06-01 21:04:17,087 - INFO - selected_topic:politics
+2023-06-01 21:04:17,087 - INFO - iteration:150
+2023-06-01 21:04:17,087 - INFO - total cases:102/200
+2023-06-01 21:04:59,816 - INFO - execution time:42.73s
+
+2023-06-01 21:04:59,818 - INFO - ###########################
+2023-06-01 21:04:59,818 - INFO - selected_topic:politics
+2023-06-01 21:04:59,818 - INFO - iteration:151
+2023-06-01 21:04:59,818 - INFO - total cases:102/200
+2023-06-01 21:05:36,495 - INFO - execution time:36.68s
+
+2023-06-01 21:05:36,495 - INFO - ###########################
+2023-06-01 21:05:36,495 - INFO - selected_topic:politics
+2023-06-01 21:05:36,495 - INFO - iteration:152
+2023-06-01 21:05:36,495 - INFO - total cases:102/200
+2023-06-01 21:06:28,631 - INFO - execution time:52.14s
+
+2023-06-01 21:06:28,631 - INFO - ###########################
+2023-06-01 21:06:28,631 - INFO - selected_topic:politics
+2023-06-01 21:06:28,632 - INFO - iteration:153
+2023-06-01 21:06:28,632 - INFO - total cases:103/200
+2023-06-01 21:07:31,051 - INFO - execution time:62.42s
+
+2023-06-01 21:07:31,052 - INFO - ###########################
+2023-06-01 21:07:31,052 - INFO - selected_topic:politics
+2023-06-01 21:07:31,052 - INFO - iteration:154
+2023-06-01 21:07:31,052 - INFO - total cases:104/200
+2023-06-01 21:08:09,011 - INFO - execution time:37.96s
+
+2023-06-01 21:08:09,012 - INFO - ###########################
+2023-06-01 21:08:09,012 - INFO - selected_topic:politics
+2023-06-01 21:08:09,012 - INFO - iteration:155
+2023-06-01 21:08:09,012 - INFO - total cases:104/200
+2023-06-01 21:09:01,186 - INFO - execution time:52.17s
+
+2023-06-01 21:09:01,188 - INFO - ###########################
+2023-06-01 21:09:01,188 - INFO - selected_topic:politics
+2023-06-01 21:09:01,188 - INFO - iteration:156
+2023-06-01 21:09:01,188 - INFO - total cases:105/200
+2023-06-01 21:09:58,272 - INFO - execution time:57.08s
+
+2023-06-01 21:09:58,272 - INFO - ###########################
+2023-06-01 21:09:58,273 - INFO - selected_topic:politics
+2023-06-01 21:09:58,273 - INFO - iteration:157
+2023-06-01 21:09:58,273 - INFO - total cases:106/200
+2023-06-01 21:11:01,063 - INFO - execution time:62.79s
+
+2023-06-01 21:11:01,063 - INFO - ###########################
+2023-06-01 21:11:01,063 - INFO - selected_topic:politics
+2023-06-01 21:11:01,063 - INFO - iteration:158
+2023-06-01 21:11:01,063 - INFO - total cases:107/200
+2023-06-01 21:11:41,652 - INFO - execution time:40.59s
+
+2023-06-01 21:11:41,652 - INFO - ###########################
+2023-06-01 21:11:41,652 - INFO - selected_topic:politics
+2023-06-01 21:11:41,653 - INFO - iteration:159
+2023-06-01 21:11:41,653 - INFO - total cases:107/200
+2023-06-01 21:12:26,636 - INFO - execution time:44.98s
+
+2023-06-01 21:12:26,636 - INFO - ###########################
+2023-06-01 21:12:26,637 - INFO - selected_topic:politics
+2023-06-01 21:12:26,637 - INFO - iteration:160
+2023-06-01 21:12:26,637 - INFO - total cases:108/200
+2023-06-01 21:13:30,448 - INFO - execution time:63.81s
+
+2023-06-01 21:13:30,449 - INFO - ###########################
+2023-06-01 21:13:30,449 - INFO - selected_topic:politics
+2023-06-01 21:13:30,449 - INFO - iteration:161
+2023-06-01 21:13:30,449 - INFO - total cases:109/200
+2023-06-01 21:14:24,364 - INFO - execution time:53.92s
+
+2023-06-01 21:14:24,365 - INFO - ###########################
+2023-06-01 21:14:24,365 - INFO - selected_topic:politics
+2023-06-01 21:14:24,365 - INFO - iteration:162
+2023-06-01 21:14:24,365 - INFO - total cases:110/200
+2023-06-01 21:15:20,959 - INFO - execution time:56.59s
+
+2023-06-01 21:15:20,960 - INFO - ###########################
+2023-06-01 21:15:20,960 - INFO - selected_topic:politics
+2023-06-01 21:15:20,960 - INFO - iteration:163
+2023-06-01 21:15:20,961 - INFO - total cases:111/200
+2023-06-01 21:16:18,207 - INFO - execution time:57.25s
+
+2023-06-01 21:16:18,207 - INFO - ###########################
+2023-06-01 21:16:18,208 - INFO - selected_topic:politics
+2023-06-01 21:16:18,208 - INFO - iteration:164
+2023-06-01 21:16:18,208 - INFO - total cases:112/200
+2023-06-01 21:17:15,982 - INFO - execution time:57.77s
+
+2023-06-01 21:17:15,983 - INFO - ###########################
+2023-06-01 21:17:15,983 - INFO - selected_topic:politics
+2023-06-01 21:17:15,983 - INFO - iteration:165
+2023-06-01 21:17:15,983 - INFO - total cases:113/200
+2023-06-01 21:17:54,697 - INFO - execution time:38.71s
+
+2023-06-01 21:17:54,698 - INFO - ###########################
+2023-06-01 21:17:54,698 - INFO - selected_topic:politics
+2023-06-01 21:17:54,698 - INFO - iteration:166
+2023-06-01 21:17:54,698 - INFO - total cases:113/200
+2023-06-01 21:18:42,970 - INFO - execution time:48.27s
+
+2023-06-01 21:18:42,970 - INFO - ###########################
+2023-06-01 21:18:42,970 - INFO - selected_topic:politics
+2023-06-01 21:18:42,970 - INFO - iteration:167
+2023-06-01 21:18:42,970 - INFO - total cases:114/200
+2023-06-01 21:19:36,705 - INFO - execution time:53.73s
+
+2023-06-01 21:19:36,706 - INFO - ###########################
+2023-06-01 21:19:36,706 - INFO - selected_topic:politics
+2023-06-01 21:19:36,706 - INFO - iteration:168
+2023-06-01 21:19:36,706 - INFO - total cases:115/200
+2023-06-01 21:20:12,558 - INFO - execution time:35.85s
+
+2023-06-01 21:20:12,559 - INFO - ###########################
+2023-06-01 21:20:12,559 - INFO - selected_topic:politics
+2023-06-01 21:20:12,559 - INFO - iteration:169
+2023-06-01 21:20:12,559 - INFO - total cases:115/200
+2023-06-01 21:21:06,810 - INFO - execution time:54.25s
+
+2023-06-01 21:21:06,810 - INFO - ###########################
+2023-06-01 21:21:06,810 - INFO - selected_topic:politics
+2023-06-01 21:21:06,810 - INFO - iteration:170
+2023-06-01 21:21:06,810 - INFO - total cases:116/200
+2023-06-01 21:21:40,557 - INFO - The returned result does not meet the requirements
+2023-06-01 21:21:40,557 - INFO - execution time:33.75s
+
+2023-06-01 21:21:40,557 - INFO - ###########################
+2023-06-01 21:21:40,557 - INFO - selected_topic:politics
+2023-06-01 21:21:40,557 - INFO - iteration:171
+2023-06-01 21:21:40,558 - INFO - total cases:116/200
+2023-06-01 21:22:28,574 - INFO - execution time:48.02s
+
+2023-06-01 21:22:28,574 - INFO - ###########################
+2023-06-01 21:22:28,575 - INFO - selected_topic:politics
+2023-06-01 21:22:28,575 - INFO - iteration:172
+2023-06-01 21:22:28,575 - INFO - total cases:117/200
+2023-06-01 21:33:26,785 - INFO - execution time:658.21s
+
+2023-06-01 21:33:26,785 - INFO - ###########################
+2023-06-01 21:33:26,785 - INFO - selected_topic:politics
+2023-06-01 21:33:26,785 - INFO - iteration:173
+2023-06-01 21:33:26,785 - INFO - total cases:118/200
+2023-06-01 21:34:24,229 - INFO - execution time:57.44s
+
+2023-06-01 21:34:24,229 - INFO - ###########################
+2023-06-01 21:34:24,229 - INFO - selected_topic:politics
+2023-06-01 21:34:24,229 - INFO - iteration:174
+2023-06-01 21:34:24,229 - INFO - total cases:119/200
+2023-06-01 21:35:18,921 - INFO - execution time:54.69s
+
+2023-06-01 21:35:18,921 - INFO - ###########################
+2023-06-01 21:35:18,921 - INFO - selected_topic:politics
+2023-06-01 21:35:18,921 - INFO - iteration:175
+2023-06-01 21:35:18,921 - INFO - total cases:120/200
+2023-06-01 21:36:47,275 - INFO - execution time:88.35s
+
+2023-06-01 21:36:47,276 - INFO - ###########################
+2023-06-01 21:36:47,276 - INFO - selected_topic:politics
+2023-06-01 21:36:47,276 - INFO - iteration:176
+2023-06-01 21:36:47,276 - INFO - total cases:121/200
+2023-06-01 21:38:10,724 - INFO - execution time:83.45s
+
+2023-06-01 21:38:10,724 - INFO - ###########################
+2023-06-01 21:38:10,724 - INFO - selected_topic:politics
+2023-06-01 21:38:10,724 - INFO - iteration:177
+2023-06-01 21:38:10,724 - INFO - total cases:122/200
+2023-06-01 21:38:46,404 - INFO - execution time:35.68s
+
+2023-06-01 21:38:46,404 - INFO - ###########################
+2023-06-01 21:38:46,404 - INFO - selected_topic:politics
+2023-06-01 21:38:46,405 - INFO - iteration:178
+2023-06-01 21:38:46,405 - INFO - total cases:122/200
+2023-06-01 21:39:44,555 - INFO - execution time:58.15s
+
+2023-06-01 21:39:44,556 - INFO - ###########################
+2023-06-01 21:39:44,556 - INFO - selected_topic:politics
+2023-06-01 21:39:44,556 - INFO - iteration:179
+2023-06-01 21:39:44,556 - INFO - total cases:122/200
+2023-06-01 21:40:56,665 - INFO - execution time:72.11s
+
+2023-06-01 21:40:56,665 - INFO - ###########################
+2023-06-01 21:40:56,665 - INFO - selected_topic:politics
+2023-06-01 21:40:56,665 - INFO - iteration:180
+2023-06-01 21:40:56,666 - INFO - total cases:123/200
+2023-06-01 21:41:32,508 - INFO - execution time:35.84s
+
+2023-06-01 21:41:32,509 - INFO - ###########################
+2023-06-01 21:41:32,509 - INFO - selected_topic:politics
+2023-06-01 21:41:32,509 - INFO - iteration:181
+2023-06-01 21:41:32,509 - INFO - total cases:123/200
+2023-06-01 21:42:30,449 - INFO - execution time:57.94s
+
+2023-06-01 21:42:30,450 - INFO - ###########################
+2023-06-01 21:42:30,450 - INFO - selected_topic:politics
+2023-06-01 21:42:30,450 - INFO - iteration:182
+2023-06-01 21:42:30,450 - INFO - total cases:124/200
+2023-06-01 21:43:48,134 - INFO - execution time:77.68s
+
+2023-06-01 21:43:48,135 - INFO - ###########################
+2023-06-01 21:43:48,135 - INFO - selected_topic:politics
+2023-06-01 21:43:48,135 - INFO - iteration:183
+2023-06-01 21:43:48,135 - INFO - total cases:125/200
+2023-06-01 21:44:41,414 - INFO - execution time:53.28s
+
+2023-06-01 21:44:41,415 - INFO - ###########################
+2023-06-01 21:44:41,415 - INFO - selected_topic:politics
+2023-06-01 21:44:41,415 - INFO - iteration:184
+2023-06-01 21:44:41,415 - INFO - total cases:126/200
+2023-06-01 21:45:35,318 - INFO - execution time:53.90s
+
+2023-06-01 21:45:35,319 - INFO - ###########################
+2023-06-01 21:45:35,319 - INFO - selected_topic:politics
+2023-06-01 21:45:35,319 - INFO - iteration:185
+2023-06-01 21:45:35,319 - INFO - total cases:127/200
+2023-06-01 21:46:26,866 - INFO - execution time:51.55s
+
+2023-06-01 21:46:26,866 - INFO - ###########################
+2023-06-01 21:46:26,866 - INFO - selected_topic:politics
+2023-06-01 21:46:26,866 - INFO - iteration:186
+2023-06-01 21:46:26,866 - INFO - total cases:128/200
+2023-06-01 21:47:20,267 - INFO - execution time:53.40s
+
+2023-06-01 21:47:20,267 - INFO - ###########################
+2023-06-01 21:47:20,268 - INFO - selected_topic:politics
+2023-06-01 21:47:20,268 - INFO - iteration:187
+2023-06-01 21:47:20,268 - INFO - total cases:129/200
+2023-06-01 21:48:34,062 - INFO - execution time:73.79s
+
+2023-06-01 21:48:34,062 - INFO - ###########################
+2023-06-01 21:48:34,062 - INFO - selected_topic:politics
+2023-06-01 21:48:34,062 - INFO - iteration:188
+2023-06-01 21:48:34,062 - INFO - total cases:130/200
+2023-06-01 21:49:11,853 - INFO - execution time:37.79s
+
+2023-06-01 21:49:11,854 - INFO - ###########################
+2023-06-01 21:49:11,854 - INFO - selected_topic:politics
+2023-06-01 21:49:11,854 - INFO - iteration:189
+2023-06-01 21:49:11,856 - INFO - total cases:130/200
+2023-06-01 21:50:01,168 - INFO - execution time:49.31s
+
+2023-06-01 21:50:01,168 - INFO - ###########################
+2023-06-01 21:50:01,168 - INFO - selected_topic:politics
+2023-06-01 21:50:01,169 - INFO - iteration:190
+2023-06-01 21:50:01,169 - INFO - total cases:131/200
+2023-06-01 21:51:06,993 - INFO - execution time:65.82s
+
+2023-06-01 21:51:06,993 - INFO - ###########################
+2023-06-01 21:51:06,993 - INFO - selected_topic:politics
+2023-06-01 21:51:06,993 - INFO - iteration:191
+2023-06-01 21:51:06,994 - INFO - total cases:132/200
+2023-06-01 21:52:09,192 - INFO - execution time:62.20s
+
+2023-06-01 21:52:09,193 - INFO - ###########################
+2023-06-01 21:52:09,193 - INFO - selected_topic:politics
+2023-06-01 21:52:09,193 - INFO - iteration:192
+2023-06-01 21:52:09,193 - INFO - total cases:133/200
+2023-06-01 21:52:53,642 - INFO - execution time:44.45s
+
+2023-06-01 21:52:53,643 - INFO - ###########################
+2023-06-01 21:52:53,643 - INFO - selected_topic:politics
+2023-06-01 21:52:53,643 - INFO - iteration:193
+2023-06-01 21:52:53,643 - INFO - total cases:133/200
+2023-06-01 21:53:59,492 - INFO - execution time:65.85s
+
+2023-06-01 21:53:59,493 - INFO - ###########################
+2023-06-01 21:53:59,493 - INFO - selected_topic:politics
+2023-06-01 21:53:59,493 - INFO - iteration:194
+2023-06-01 21:53:59,493 - INFO - total cases:134/200
+2023-06-01 21:55:04,905 - INFO - execution time:65.41s
+
+2023-06-01 21:55:04,905 - INFO - ###########################
+2023-06-01 21:55:04,906 - INFO - selected_topic:politics
+2023-06-01 21:55:04,906 - INFO - iteration:195
+2023-06-01 21:55:04,906 - INFO - total cases:134/200
+2023-06-01 21:55:39,263 - INFO - execution time:34.36s
+
+2023-06-01 21:55:39,263 - INFO - ###########################
+2023-06-01 21:55:39,264 - INFO - selected_topic:politics
+2023-06-01 21:55:39,264 - INFO - iteration:196
+2023-06-01 21:55:39,264 - INFO - total cases:134/200
+2023-06-01 21:56:06,820 - INFO - execution time:27.56s
+
+2023-06-01 21:56:06,820 - INFO - ###########################
+2023-06-01 21:56:06,820 - INFO - selected_topic:politics
+2023-06-01 21:56:06,820 - INFO - iteration:197
+2023-06-01 21:56:06,820 - INFO - total cases:134/200
+2023-06-01 21:56:44,315 - INFO - execution time:37.49s
+
+2023-06-01 21:56:44,315 - INFO - ###########################
+2023-06-01 21:56:44,315 - INFO - selected_topic:politics
+2023-06-01 21:56:44,315 - INFO - iteration:198
+2023-06-01 21:56:44,315 - INFO - total cases:134/200
+2023-06-01 21:57:43,937 - INFO - execution time:59.62s
+
+2023-06-01 21:57:43,937 - INFO - ###########################
+2023-06-01 21:57:43,937 - INFO - selected_topic:politics
+2023-06-01 21:57:43,937 - INFO - iteration:199
+2023-06-01 21:57:43,938 - INFO - total cases:134/200
+2023-06-01 21:58:16,040 - INFO - execution time:32.10s
+
+2023-06-01 21:58:16,040 - INFO - ###########################
+2023-06-01 21:58:16,041 - INFO - selected_topic:politics
+2023-06-01 21:58:16,041 - INFO - iteration:200
+2023-06-01 21:58:16,041 - INFO - total cases:134/200
+2023-06-01 21:59:11,956 - INFO - execution time:55.91s
+
+2023-06-01 21:59:11,956 - INFO - ###########################
+2023-06-01 21:59:11,956 - INFO - selected_topic:politics
+2023-06-01 21:59:11,957 - INFO - iteration:201
+2023-06-01 21:59:11,957 - INFO - total cases:135/200
+2023-06-01 22:00:11,884 - INFO - execution time:59.93s
+
+2023-06-01 22:00:11,884 - INFO - ###########################
+2023-06-01 22:00:11,884 - INFO - selected_topic:politics
+2023-06-01 22:00:11,884 - INFO - iteration:202
+2023-06-01 22:00:11,884 - INFO - total cases:136/200
+2023-06-01 22:01:07,115 - INFO - execution time:55.23s
+
+2023-06-01 22:01:07,116 - INFO - ###########################
+2023-06-01 22:01:07,116 - INFO - selected_topic:politics
+2023-06-01 22:01:07,116 - INFO - iteration:203
+2023-06-01 22:01:07,116 - INFO - total cases:137/200
+2023-06-01 22:02:00,110 - INFO - execution time:52.99s
+
+2023-06-01 22:02:00,110 - INFO - ###########################
+2023-06-01 22:02:00,110 - INFO - selected_topic:politics
+2023-06-01 22:02:00,110 - INFO - iteration:204
+2023-06-01 22:02:00,110 - INFO - total cases:138/200
+2023-06-01 22:03:03,386 - INFO - execution time:63.28s
+
+2023-06-01 22:03:03,387 - INFO - ###########################
+2023-06-01 22:03:03,387 - INFO - selected_topic:politics
+2023-06-01 22:03:03,387 - INFO - iteration:205
+2023-06-01 22:03:03,387 - INFO - total cases:139/200
+2023-06-01 22:03:57,234 - INFO - execution time:53.85s
+
+2023-06-01 22:03:57,234 - INFO - ###########################
+2023-06-01 22:03:57,234 - INFO - selected_topic:politics
+2023-06-01 22:03:57,234 - INFO - iteration:206
+2023-06-01 22:03:57,234 - INFO - total cases:140/200
+2023-06-01 22:04:31,626 - INFO - execution time:34.39s
+
+2023-06-01 22:04:31,627 - INFO - ###########################
+2023-06-01 22:04:31,627 - INFO - selected_topic:politics
+2023-06-01 22:04:31,627 - INFO - iteration:207
+2023-06-01 22:04:31,627 - INFO - total cases:140/200
+2023-06-01 22:05:22,242 - INFO - execution time:50.61s
+
+2023-06-01 22:05:22,242 - INFO - ###########################
+2023-06-01 22:05:22,242 - INFO - selected_topic:politics
+2023-06-01 22:05:22,242 - INFO - iteration:208
+2023-06-01 22:05:22,243 - INFO - total cases:141/200
+2023-06-01 22:06:29,544 - INFO - execution time:67.30s
+
+2023-06-01 22:06:29,545 - INFO - ###########################
+2023-06-01 22:06:29,545 - INFO - selected_topic:politics
+2023-06-01 22:06:29,545 - INFO - iteration:209
+2023-06-01 22:06:29,545 - INFO - total cases:142/200
+2023-06-01 22:07:09,002 - INFO - execution time:39.46s
+
+2023-06-01 22:07:09,002 - INFO - ###########################
+2023-06-01 22:07:09,002 - INFO - selected_topic:politics
+2023-06-01 22:07:09,002 - INFO - iteration:210
+2023-06-01 22:07:09,002 - INFO - total cases:142/200
+2023-06-01 22:08:07,988 - INFO - execution time:58.99s
+
+2023-06-01 22:08:07,988 - INFO - ###########################
+2023-06-01 22:08:07,988 - INFO - selected_topic:politics
+2023-06-01 22:08:07,988 - INFO - iteration:211
+2023-06-01 22:08:07,988 - INFO - total cases:143/200
+2023-06-01 22:08:39,538 - INFO - execution time:31.55s
+
+2023-06-01 22:08:39,539 - INFO - ###########################
+2023-06-01 22:08:39,539 - INFO - selected_topic:politics
+2023-06-01 22:08:39,539 - INFO - iteration:212
+2023-06-01 22:08:39,539 - INFO - total cases:143/200
+2023-06-01 22:09:09,238 - INFO - execution time:29.70s
+
+2023-06-01 22:09:09,238 - INFO - ###########################
+2023-06-01 22:09:09,239 - INFO - selected_topic:politics
+2023-06-01 22:09:09,239 - INFO - iteration:213
+2023-06-01 22:09:09,239 - INFO - total cases:143/200
+2023-06-01 22:09:47,261 - INFO - execution time:38.02s
+
+2023-06-01 22:09:47,261 - INFO - ###########################
+2023-06-01 22:09:47,261 - INFO - selected_topic:politics
+2023-06-01 22:09:47,261 - INFO - iteration:214
+2023-06-01 22:09:47,261 - INFO - total cases:143/200
+2023-06-01 22:10:37,061 - INFO - execution time:49.80s
+
+2023-06-01 22:10:37,061 - INFO - ###########################
+2023-06-01 22:10:37,061 - INFO - selected_topic:politics
+2023-06-01 22:10:37,061 - INFO - iteration:215
+2023-06-01 22:10:37,061 - INFO - total cases:144/200
+2023-06-01 22:11:37,840 - INFO - execution time:60.78s
+
+2023-06-01 22:11:37,840 - INFO - ###########################
+2023-06-01 22:11:37,840 - INFO - selected_topic:politics
+2023-06-01 22:11:37,840 - INFO - iteration:216
+2023-06-01 22:11:37,840 - INFO - total cases:145/200
+2023-06-01 22:12:24,597 - INFO - execution time:46.76s
+
+2023-06-01 22:12:24,598 - INFO - ###########################
+2023-06-01 22:12:24,598 - INFO - selected_topic:politics
+2023-06-01 22:12:24,598 - INFO - iteration:217
+2023-06-01 22:12:24,598 - INFO - total cases:146/200
+2023-06-01 22:12:53,546 - INFO - The returned result does not meet the requirements
+2023-06-01 22:12:53,546 - INFO - execution time:28.95s
+
+2023-06-01 22:12:53,546 - INFO - ###########################
+2023-06-01 22:12:53,546 - INFO - selected_topic:politics
+2023-06-01 22:12:53,546 - INFO - iteration:218
+2023-06-01 22:12:53,546 - INFO - total cases:146/200
+2023-06-01 22:13:23,766 - INFO - execution time:30.22s
+
+2023-06-01 22:13:23,767 - INFO - ###########################
+2023-06-01 22:13:23,767 - INFO - selected_topic:politics
+2023-06-01 22:13:23,767 - INFO - iteration:219
+2023-06-01 22:13:23,767 - INFO - total cases:146/200
+2023-06-01 22:14:11,297 - INFO - execution time:47.53s
+
+2023-06-01 22:14:11,298 - INFO - ###########################
+2023-06-01 22:14:11,298 - INFO - selected_topic:politics
+2023-06-01 22:14:11,298 - INFO - iteration:220
+2023-06-01 22:14:11,298 - INFO - total cases:147/200
+2023-06-01 22:15:16,040 - INFO - execution time:64.74s
+
+2023-06-01 22:15:16,040 - INFO - ###########################
+2023-06-01 22:15:16,040 - INFO - selected_topic:politics
+2023-06-01 22:15:16,040 - INFO - iteration:221
+2023-06-01 22:15:16,040 - INFO - total cases:148/200
+2023-06-01 22:15:56,012 - INFO - execution time:39.97s
+
+2023-06-01 22:15:56,012 - INFO - ###########################
+2023-06-01 22:15:56,013 - INFO - selected_topic:politics
+2023-06-01 22:15:56,013 - INFO - iteration:222
+2023-06-01 22:15:56,013 - INFO - total cases:148/200
+2023-06-01 22:16:30,838 - INFO - execution time:34.83s
+
+2023-06-01 22:16:30,839 - INFO - ###########################
+2023-06-01 22:16:30,839 - INFO - selected_topic:politics
+2023-06-01 22:16:30,839 - INFO - iteration:223
+2023-06-01 22:16:30,839 - INFO - total cases:148/200
+2023-06-01 22:17:26,905 - INFO - execution time:56.07s
+
+2023-06-01 22:17:26,905 - INFO - ###########################
+2023-06-01 22:17:26,905 - INFO - selected_topic:politics
+2023-06-01 22:17:26,905 - INFO - iteration:224
+2023-06-01 22:17:26,906 - INFO - total cases:149/200
+2023-06-01 22:18:20,134 - INFO - execution time:53.23s
+
+2023-06-01 22:18:20,134 - INFO - ###########################
+2023-06-01 22:18:20,135 - INFO - selected_topic:politics
+2023-06-01 22:18:20,135 - INFO - iteration:225
+2023-06-01 22:18:20,135 - INFO - total cases:150/200
+2023-06-01 22:19:00,910 - INFO - execution time:40.77s
+
+2023-06-01 22:19:00,910 - INFO - ###########################
+2023-06-01 22:19:00,910 - INFO - selected_topic:politics
+2023-06-01 22:19:00,910 - INFO - iteration:226
+2023-06-01 22:19:00,910 - INFO - total cases:150/200
+2023-06-01 22:20:06,980 - INFO - execution time:66.07s
+
+2023-06-01 22:20:06,980 - INFO - ###########################
+2023-06-01 22:20:06,980 - INFO - selected_topic:politics
+2023-06-01 22:20:06,980 - INFO - iteration:227
+2023-06-01 22:20:06,980 - INFO - total cases:150/200
+2023-06-01 22:20:57,414 - INFO - execution time:50.43s
+
+2023-06-01 22:20:57,414 - INFO - ###########################
+2023-06-01 22:20:57,414 - INFO - selected_topic:politics
+2023-06-01 22:20:57,414 - INFO - iteration:228
+2023-06-01 22:20:57,414 - INFO - total cases:151/200
+2023-06-01 22:21:34,509 - INFO - execution time:37.09s
+
+2023-06-01 22:21:34,510 - INFO - ###########################
+2023-06-01 22:21:34,510 - INFO - selected_topic:politics
+2023-06-01 22:21:34,510 - INFO - iteration:229
+2023-06-01 22:21:34,511 - INFO - total cases:151/200
+2023-06-01 22:22:09,509 - INFO - execution time:35.00s
+
+2023-06-01 22:22:09,509 - INFO - ###########################
+2023-06-01 22:22:09,509 - INFO - selected_topic:politics
+2023-06-01 22:22:09,509 - INFO - iteration:230
+2023-06-01 22:22:09,509 - INFO - total cases:151/200
+2023-06-01 22:22:57,203 - INFO - execution time:47.69s
+
+2023-06-01 22:22:57,203 - INFO - ###########################
+2023-06-01 22:22:57,204 - INFO - selected_topic:politics
+2023-06-01 22:22:57,204 - INFO - iteration:231
+2023-06-01 22:22:57,204 - INFO - total cases:152/200
+2023-06-01 22:23:55,558 - INFO - execution time:58.35s
+
+2023-06-01 22:23:55,558 - INFO - ###########################
+2023-06-01 22:23:55,558 - INFO - selected_topic:politics
+2023-06-01 22:23:55,559 - INFO - iteration:232
+2023-06-01 22:23:55,559 - INFO - total cases:153/200
+2023-06-01 22:24:52,191 - INFO - execution time:56.63s
+
+2023-06-01 22:24:52,191 - INFO - ###########################
+2023-06-01 22:24:52,191 - INFO - selected_topic:politics
+2023-06-01 22:24:52,191 - INFO - iteration:233
+2023-06-01 22:24:52,191 - INFO - total cases:153/200
+2023-06-01 22:25:43,811 - INFO - execution time:51.62s
+
+2023-06-01 22:25:43,811 - INFO - ###########################
+2023-06-01 22:25:43,811 - INFO - selected_topic:politics
+2023-06-01 22:25:43,811 - INFO - iteration:234
+2023-06-01 22:25:43,811 - INFO - total cases:154/200
+2023-06-01 22:26:34,500 - INFO - execution time:50.69s
+
+2023-06-01 22:26:34,500 - INFO - ###########################
+2023-06-01 22:26:34,500 - INFO - selected_topic:politics
+2023-06-01 22:26:34,500 - INFO - iteration:235
+2023-06-01 22:26:34,501 - INFO - total cases:155/200
+2023-06-01 22:27:11,549 - INFO - execution time:37.05s
+
+2023-06-01 22:27:11,549 - INFO - ###########################
+2023-06-01 22:27:11,549 - INFO - selected_topic:politics
+2023-06-01 22:27:11,549 - INFO - iteration:236
+2023-06-01 22:27:11,550 - INFO - total cases:155/200
+2023-06-01 22:27:42,603 - INFO - execution time:31.05s
+
+2023-06-01 22:27:42,604 - INFO - ###########################
+2023-06-01 22:27:42,604 - INFO - selected_topic:politics
+2023-06-01 22:27:42,604 - INFO - iteration:237
+2023-06-01 22:27:42,604 - INFO - total cases:155/200
+2023-06-01 22:28:33,030 - INFO - execution time:50.43s
+
+2023-06-01 22:28:33,030 - INFO - ###########################
+2023-06-01 22:28:33,030 - INFO - selected_topic:politics
+2023-06-01 22:28:33,030 - INFO - iteration:238
+2023-06-01 22:28:33,030 - INFO - total cases:156/200
+2023-06-01 22:29:02,264 - INFO - execution time:29.23s
+
+2023-06-01 22:29:02,265 - INFO - ###########################
+2023-06-01 22:29:02,265 - INFO - selected_topic:politics
+2023-06-01 22:29:02,265 - INFO - iteration:239
+2023-06-01 22:29:02,265 - INFO - total cases:156/200
+2023-06-01 22:29:53,466 - INFO - execution time:51.20s
+
+2023-06-01 22:29:53,466 - INFO - ###########################
+2023-06-01 22:29:53,466 - INFO - selected_topic:politics
+2023-06-01 22:29:53,466 - INFO - iteration:240
+2023-06-01 22:29:53,467 - INFO - total cases:157/200
+2023-06-01 22:30:43,635 - INFO - execution time:50.17s
+
+2023-06-01 22:30:43,635 - INFO - ###########################
+2023-06-01 22:30:43,635 - INFO - selected_topic:politics
+2023-06-01 22:30:43,636 - INFO - iteration:241
+2023-06-01 22:30:43,636 - INFO - total cases:158/200
+2023-06-01 22:31:37,973 - INFO - execution time:54.34s
+
+2023-06-01 22:31:37,973 - INFO - ###########################
+2023-06-01 22:31:37,974 - INFO - selected_topic:politics
+2023-06-01 22:31:37,974 - INFO - iteration:242
+2023-06-01 22:31:37,974 - INFO - total cases:159/200
+2023-06-01 22:32:20,698 - INFO - execution time:42.72s
+
+2023-06-01 22:32:20,698 - INFO - ###########################
+2023-06-01 22:32:20,698 - INFO - selected_topic:politics
+2023-06-01 22:32:20,699 - INFO - iteration:243
+2023-06-01 22:32:20,699 - INFO - total cases:159/200
+2023-06-01 22:33:35,464 - INFO - execution time:74.77s
+
+2023-06-01 22:33:35,464 - INFO - ###########################
+2023-06-01 22:33:35,464 - INFO - selected_topic:politics
+2023-06-01 22:33:35,464 - INFO - iteration:244
+2023-06-01 22:33:35,464 - INFO - total cases:160/200
+2023-06-01 22:34:28,360 - INFO - execution time:52.90s
+
+2023-06-01 22:34:28,360 - INFO - ###########################
+2023-06-01 22:34:28,361 - INFO - selected_topic:politics
+2023-06-01 22:34:28,362 - INFO - iteration:245
+2023-06-01 22:34:28,362 - INFO - total cases:161/200
+2023-06-01 22:35:00,451 - INFO - execution time:32.09s
+
+2023-06-01 22:35:00,452 - INFO - ###########################
+2023-06-01 22:35:00,452 - INFO - selected_topic:politics
+2023-06-01 22:35:00,452 - INFO - iteration:246
+2023-06-01 22:35:00,452 - INFO - total cases:161/200
+2023-06-01 22:35:39,688 - INFO - execution time:39.24s
+
+2023-06-01 22:35:39,689 - INFO - ###########################
+2023-06-01 22:35:39,689 - INFO - selected_topic:politics
+2023-06-01 22:35:39,689 - INFO - iteration:247
+2023-06-01 22:35:39,689 - INFO - total cases:161/200
+2023-06-01 22:36:11,974 - INFO - execution time:32.28s
+
+2023-06-01 22:36:11,974 - INFO - ###########################
+2023-06-01 22:36:11,974 - INFO - selected_topic:politics
+2023-06-01 22:36:11,974 - INFO - iteration:248
+2023-06-01 22:36:11,974 - INFO - total cases:161/200
+2023-06-01 22:37:09,855 - INFO - execution time:57.88s
+
+2023-06-01 22:37:09,855 - INFO - ###########################
+2023-06-01 22:37:09,856 - INFO - selected_topic:politics
+2023-06-01 22:37:09,856 - INFO - iteration:249
+2023-06-01 22:37:09,856 - INFO - total cases:162/200
+2023-06-01 22:37:48,603 - INFO - execution time:38.75s
+
+2023-06-01 22:37:48,603 - INFO - ###########################
+2023-06-01 22:37:48,603 - INFO - selected_topic:politics
+2023-06-01 22:37:48,603 - INFO - iteration:250
+2023-06-01 22:37:48,603 - INFO - total cases:162/200
+2023-06-01 22:38:46,248 - INFO - execution time:57.64s
+
+2023-06-01 22:38:46,248 - INFO - ###########################
+2023-06-01 22:38:46,248 - INFO - selected_topic:politics
+2023-06-01 22:38:46,248 - INFO - iteration:251
+2023-06-01 22:38:46,248 - INFO - total cases:163/200
+2023-06-01 22:39:42,909 - INFO - execution time:56.66s
+
+2023-06-01 22:39:42,910 - INFO - ###########################
+2023-06-01 22:39:42,910 - INFO - selected_topic:politics
+2023-06-01 22:39:42,910 - INFO - iteration:252
+2023-06-01 22:39:42,910 - INFO - total cases:164/200
+2023-06-01 22:40:23,675 - INFO - execution time:40.76s
+
+2023-06-01 22:40:23,675 - INFO - ###########################
+2023-06-01 22:40:23,675 - INFO - selected_topic:politics
+2023-06-01 22:40:23,675 - INFO - iteration:253
+2023-06-01 22:40:23,675 - INFO - total cases:164/200
+2023-06-01 22:40:58,170 - INFO - execution time:34.49s
+
+2023-06-01 22:40:58,170 - INFO - ###########################
+2023-06-01 22:40:58,170 - INFO - selected_topic:politics
+2023-06-01 22:40:58,170 - INFO - iteration:254
+2023-06-01 22:40:58,170 - INFO - total cases:164/200
+2023-06-01 22:41:59,136 - INFO - execution time:60.97s
+
+2023-06-01 22:41:59,136 - INFO - ###########################
+2023-06-01 22:41:59,136 - INFO - selected_topic:politics
+2023-06-01 22:41:59,136 - INFO - iteration:255
+2023-06-01 22:41:59,136 - INFO - total cases:165/200
+2023-06-01 22:43:00,900 - INFO - execution time:61.76s
+
+2023-06-01 22:43:00,900 - INFO - ###########################
+2023-06-01 22:43:00,901 - INFO - selected_topic:politics
+2023-06-01 22:43:00,901 - INFO - iteration:256
+2023-06-01 22:43:00,901 - INFO - total cases:166/200
+2023-06-01 22:44:04,813 - INFO - execution time:63.91s
+
+2023-06-01 22:44:04,813 - INFO - ###########################
+2023-06-01 22:44:04,814 - INFO - selected_topic:politics
+2023-06-01 22:44:04,814 - INFO - iteration:257
+2023-06-01 22:44:04,814 - INFO - total cases:167/200
+2023-06-01 22:45:15,976 - INFO - execution time:71.16s
+
+2023-06-01 22:45:15,977 - INFO - ###########################
+2023-06-01 22:45:15,977 - INFO - selected_topic:politics
+2023-06-01 22:45:15,977 - INFO - iteration:258
+2023-06-01 22:45:15,977 - INFO - total cases:167/200
+2023-06-01 22:46:10,771 - INFO - execution time:54.79s
+
+2023-06-01 22:46:10,771 - INFO - ###########################
+2023-06-01 22:46:10,771 - INFO - selected_topic:politics
+2023-06-01 22:46:10,771 - INFO - iteration:259
+2023-06-01 22:46:10,771 - INFO - total cases:168/200
+2023-06-01 22:47:14,611 - INFO - execution time:63.84s
+
+2023-06-01 22:47:14,611 - INFO - ###########################
+2023-06-01 22:47:14,611 - INFO - selected_topic:politics
+2023-06-01 22:47:14,612 - INFO - iteration:260
+2023-06-01 22:47:14,612 - INFO - total cases:168/200
+2023-06-01 22:48:15,293 - INFO - execution time:60.68s
+
+2023-06-01 22:48:15,293 - INFO - ###########################
+2023-06-01 22:48:15,294 - INFO - selected_topic:politics
+2023-06-01 22:48:15,294 - INFO - iteration:261
+2023-06-01 22:48:15,294 - INFO - total cases:169/200
+2023-06-01 22:49:16,475 - INFO - execution time:61.18s
+
+2023-06-01 22:49:16,475 - INFO - ###########################
+2023-06-01 22:49:16,476 - INFO - selected_topic:politics
+2023-06-01 22:49:16,476 - INFO - iteration:262
+2023-06-01 22:49:16,476 - INFO - total cases:170/200
+2023-06-01 22:50:17,380 - INFO - execution time:60.90s
+
+2023-06-01 22:50:17,380 - INFO - ###########################
+2023-06-01 22:50:17,381 - INFO - selected_topic:politics
+2023-06-01 22:50:17,381 - INFO - iteration:263
+2023-06-01 22:50:17,381 - INFO - total cases:171/200
+2023-06-01 22:51:14,279 - INFO - execution time:56.90s
+
+2023-06-01 22:51:14,279 - INFO - ###########################
+2023-06-01 22:51:14,280 - INFO - selected_topic:politics
+2023-06-01 22:51:14,280 - INFO - iteration:264
+2023-06-01 22:51:14,280 - INFO - total cases:172/200
+2023-06-01 22:51:42,791 - INFO - The returned result does not meet the requirements
+2023-06-01 22:51:42,792 - INFO - execution time:28.51s
+
+2023-06-01 22:51:42,792 - INFO - ###########################
+2023-06-01 22:51:42,792 - INFO - selected_topic:politics
+2023-06-01 22:51:42,792 - INFO - iteration:265
+2023-06-01 22:51:42,792 - INFO - total cases:172/200
+2023-06-01 22:52:25,320 - INFO - execution time:42.53s
+
+2023-06-01 22:52:25,320 - INFO - ###########################
+2023-06-01 22:52:25,321 - INFO - selected_topic:politics
+2023-06-01 22:52:25,321 - INFO - iteration:266
+2023-06-01 22:52:25,321 - INFO - total cases:172/200
+2023-06-01 22:52:58,011 - INFO - execution time:32.69s
+
+2023-06-01 22:52:58,012 - INFO - ###########################
+2023-06-01 22:52:58,012 - INFO - selected_topic:politics
+2023-06-01 22:52:58,012 - INFO - iteration:267
+2023-06-01 22:52:58,012 - INFO - total cases:172/200
+2023-06-01 22:53:58,499 - INFO - execution time:60.49s
+
+2023-06-01 22:53:58,500 - INFO - ###########################
+2023-06-01 22:53:58,500 - INFO - selected_topic:politics
+2023-06-01 22:53:58,500 - INFO - iteration:268
+2023-06-01 22:53:58,500 - INFO - total cases:173/200
+2023-06-01 22:54:53,000 - INFO - execution time:54.50s
+
+2023-06-01 22:54:53,001 - INFO - ###########################
+2023-06-01 22:54:53,001 - INFO - selected_topic:politics
+2023-06-01 22:54:53,001 - INFO - iteration:269
+2023-06-01 22:54:53,001 - INFO - total cases:174/200
+2023-06-01 22:55:58,362 - INFO - execution time:65.36s
+
+2023-06-01 22:55:58,362 - INFO - ###########################
+2023-06-01 22:55:58,362 - INFO - selected_topic:politics
+2023-06-01 22:55:58,363 - INFO - iteration:270
+2023-06-01 22:55:58,363 - INFO - total cases:174/200
+2023-06-01 22:57:07,522 - INFO - execution time:69.16s
+
+2023-06-01 22:57:07,523 - INFO - ###########################
+2023-06-01 22:57:07,523 - INFO - selected_topic:politics
+2023-06-01 22:57:07,523 - INFO - iteration:271
+2023-06-01 22:57:07,523 - INFO - total cases:175/200
+2023-06-01 22:57:51,217 - INFO - execution time:43.69s
+
+2023-06-01 22:57:51,218 - INFO - ###########################
+2023-06-01 22:57:51,218 - INFO - selected_topic:politics
+2023-06-01 22:57:51,218 - INFO - iteration:272
+2023-06-01 22:57:51,218 - INFO - total cases:175/200
+2023-06-01 22:58:32,695 - INFO - execution time:41.48s
+
+2023-06-01 22:58:32,696 - INFO - ###########################
+2023-06-01 22:58:32,696 - INFO - selected_topic:politics
+2023-06-01 22:58:32,696 - INFO - iteration:273
+2023-06-01 22:58:32,696 - INFO - total cases:175/200
+2023-06-01 22:59:08,676 - INFO - execution time:35.98s
+
+2023-06-01 22:59:08,676 - INFO - ###########################
+2023-06-01 22:59:08,676 - INFO - selected_topic:politics
+2023-06-01 22:59:08,676 - INFO - iteration:274
+2023-06-01 22:59:08,676 - INFO - total cases:175/200
+2023-06-01 23:00:09,953 - INFO - execution time:61.28s
+
+2023-06-01 23:00:09,953 - INFO - ###########################
+2023-06-01 23:00:09,954 - INFO - selected_topic:politics
+2023-06-01 23:00:09,954 - INFO - iteration:275
+2023-06-01 23:00:09,954 - INFO - total cases:176/200
+2023-06-01 23:00:59,699 - INFO - execution time:49.74s
+
+2023-06-01 23:00:59,699 - INFO - ###########################
+2023-06-01 23:00:59,699 - INFO - selected_topic:politics
+2023-06-01 23:00:59,699 - INFO - iteration:276
+2023-06-01 23:00:59,700 - INFO - total cases:177/200
+2023-06-01 23:01:47,497 - INFO - execution time:47.80s
+
+2023-06-01 23:01:47,497 - INFO - ###########################
+2023-06-01 23:01:47,498 - INFO - selected_topic:politics
+2023-06-01 23:01:47,498 - INFO - iteration:277
+2023-06-01 23:01:47,498 - INFO - total cases:178/200
+2023-06-01 23:02:21,726 - INFO - execution time:34.23s
+
+2023-06-01 23:02:21,726 - INFO - ###########################
+2023-06-01 23:02:21,727 - INFO - selected_topic:politics
+2023-06-01 23:02:21,727 - INFO - iteration:278
+2023-06-01 23:02:21,727 - INFO - total cases:178/200
+2023-06-01 23:03:22,332 - INFO - execution time:60.61s
+
+2023-06-01 23:03:22,332 - INFO - ###########################
+2023-06-01 23:03:22,332 - INFO - selected_topic:politics
+2023-06-01 23:03:22,332 - INFO - iteration:279
+2023-06-01 23:03:22,332 - INFO - total cases:179/200
+2023-06-01 23:04:01,423 - INFO - execution time:39.09s
+
+2023-06-01 23:04:01,424 - INFO - ###########################
+2023-06-01 23:04:01,424 - INFO - selected_topic:politics
+2023-06-01 23:04:01,424 - INFO - iteration:280
+2023-06-01 23:04:01,424 - INFO - total cases:179/200
+2023-06-01 23:04:50,882 - INFO - execution time:49.46s
+
+2023-06-01 23:04:50,882 - INFO - ###########################
+2023-06-01 23:04:50,882 - INFO - selected_topic:politics
+2023-06-01 23:04:50,882 - INFO - iteration:281
+2023-06-01 23:04:50,882 - INFO - total cases:180/200
+2023-06-01 23:05:31,486 - INFO - execution time:40.60s
+
+2023-06-01 23:05:31,486 - INFO - ###########################
+2023-06-01 23:05:31,486 - INFO - selected_topic:politics
+2023-06-01 23:05:31,486 - INFO - iteration:282
+2023-06-01 23:05:31,486 - INFO - total cases:181/200
+2023-06-01 23:06:46,338 - INFO - execution time:74.85s
+
+2023-06-01 23:06:46,338 - INFO - ###########################
+2023-06-01 23:06:46,339 - INFO - selected_topic:politics
+2023-06-01 23:06:46,339 - INFO - iteration:283
+2023-06-01 23:06:46,339 - INFO - total cases:182/200
+2023-06-01 23:07:59,020 - INFO - execution time:72.68s
+
+2023-06-01 23:07:59,020 - INFO - ###########################
+2023-06-01 23:07:59,020 - INFO - selected_topic:politics
+2023-06-01 23:07:59,020 - INFO - iteration:284
+2023-06-01 23:07:59,020 - INFO - total cases:183/200
+2023-06-01 23:08:58,301 - INFO - execution time:59.28s
+
+2023-06-01 23:08:58,302 - INFO - ###########################
+2023-06-01 23:08:58,302 - INFO - selected_topic:politics
+2023-06-01 23:08:58,302 - INFO - iteration:285
+2023-06-01 23:08:58,302 - INFO - total cases:184/200
+2023-06-01 23:09:57,763 - INFO - execution time:59.46s
+
+2023-06-01 23:09:57,763 - INFO - ###########################
+2023-06-01 23:09:57,763 - INFO - selected_topic:politics
+2023-06-01 23:09:57,763 - INFO - iteration:286
+2023-06-01 23:09:57,763 - INFO - total cases:185/200
+2023-06-01 23:10:48,336 - INFO - execution time:50.57s
+
+2023-06-01 23:10:48,336 - INFO - ###########################
+2023-06-01 23:10:48,336 - INFO - selected_topic:politics
+2023-06-01 23:10:48,336 - INFO - iteration:287
+2023-06-01 23:10:48,337 - INFO - total cases:186/200
+2023-06-01 23:11:26,352 - INFO - execution time:38.02s
+
+2023-06-01 23:11:26,352 - INFO - ###########################
+2023-06-01 23:11:26,352 - INFO - selected_topic:politics
+2023-06-01 23:11:26,352 - INFO - iteration:288
+2023-06-01 23:11:26,352 - INFO - total cases:186/200
+2023-06-01 23:12:22,564 - INFO - execution time:56.21s
+
+2023-06-01 23:12:22,565 - INFO - ###########################
+2023-06-01 23:12:22,565 - INFO - selected_topic:politics
+2023-06-01 23:12:22,565 - INFO - iteration:289
+2023-06-01 23:12:22,565 - INFO - total cases:187/200
+2023-06-01 23:12:57,865 - INFO - execution time:35.30s
+
+2023-06-01 23:12:57,866 - INFO - ###########################
+2023-06-01 23:12:57,866 - INFO - selected_topic:politics
+2023-06-01 23:12:57,867 - INFO - iteration:290
+2023-06-01 23:12:57,867 - INFO - total cases:187/200
+2023-06-01 23:13:44,053 - INFO - execution time:46.19s
+
+2023-06-01 23:13:44,054 - INFO - ###########################
+2023-06-01 23:13:44,054 - INFO - selected_topic:politics
+2023-06-01 23:13:44,054 - INFO - iteration:291
+2023-06-01 23:13:44,054 - INFO - total cases:188/200
+2023-06-01 23:14:46,286 - INFO - execution time:62.23s
+
+2023-06-01 23:14:46,287 - INFO - ###########################
+2023-06-01 23:14:46,287 - INFO - selected_topic:politics
+2023-06-01 23:14:46,287 - INFO - iteration:292
+2023-06-01 23:14:46,287 - INFO - total cases:189/200
+2023-06-01 23:15:47,648 - INFO - execution time:61.36s
+
+2023-06-01 23:15:47,649 - INFO - ###########################
+2023-06-01 23:15:47,649 - INFO - selected_topic:politics
+2023-06-01 23:15:47,649 - INFO - iteration:293
+2023-06-01 23:15:47,649 - INFO - total cases:190/200
+2023-06-01 23:16:45,501 - INFO - execution time:57.85s
+
+2023-06-01 23:16:45,501 - INFO - ###########################
+2023-06-01 23:16:45,501 - INFO - selected_topic:politics
+2023-06-01 23:16:45,501 - INFO - iteration:294
+2023-06-01 23:16:45,501 - INFO - total cases:191/200
+2023-06-01 23:17:16,935 - INFO - execution time:31.43s
+
+2023-06-01 23:17:16,936 - INFO - ###########################
+2023-06-01 23:17:16,936 - INFO - selected_topic:politics
+2023-06-01 23:17:16,936 - INFO - iteration:295
+2023-06-01 23:17:16,936 - INFO - total cases:191/200
+2023-06-01 23:18:08,325 - INFO - execution time:51.39s
+
+2023-06-01 23:18:08,326 - INFO - ###########################
+2023-06-01 23:18:08,326 - INFO - selected_topic:politics
+2023-06-01 23:18:08,326 - INFO - iteration:296
+2023-06-01 23:18:08,326 - INFO - total cases:192/200
+2023-06-01 23:18:39,557 - INFO - execution time:31.23s
+
+2023-06-01 23:18:39,557 - INFO - ###########################
+2023-06-01 23:18:39,557 - INFO - selected_topic:politics
+2023-06-01 23:18:39,557 - INFO - iteration:297
+2023-06-01 23:18:39,557 - INFO - total cases:192/200
+2023-06-01 23:19:09,216 - INFO - execution time:29.66s
+
+2023-06-01 23:19:09,216 - INFO - ###########################
+2023-06-01 23:19:09,216 - INFO - selected_topic:politics
+2023-06-01 23:19:09,217 - INFO - iteration:298
+2023-06-01 23:19:09,217 - INFO - total cases:192/200
+2023-06-01 23:19:41,520 - INFO - execution time:32.30s
+
+2023-06-01 23:19:41,520 - INFO - ###########################
+2023-06-01 23:19:41,520 - INFO - selected_topic:politics
+2023-06-01 23:19:41,520 - INFO - iteration:299
+2023-06-01 23:19:41,520 - INFO - total cases:192/200
+2023-06-01 23:20:31,028 - INFO - execution time:49.51s
+
+2023-06-01 23:20:31,028 - INFO - ###########################
+2023-06-01 23:20:31,028 - INFO - selected_topic:politics
+2023-06-01 23:20:31,029 - INFO - iteration:300
+2023-06-01 23:20:31,029 - INFO - total cases:193/200
+2023-06-01 23:21:03,660 - INFO - execution time:32.63s
+
+2023-06-01 23:21:03,661 - INFO - ###########################
+2023-06-01 23:21:03,661 - INFO - selected_topic:politics
+2023-06-01 23:21:03,661 - INFO - iteration:301
+2023-06-01 23:21:03,661 - INFO - total cases:193/200
+2023-06-01 23:22:03,819 - INFO - execution time:60.16s
+
+2023-06-01 23:22:03,819 - INFO - ###########################
+2023-06-01 23:22:03,820 - INFO - selected_topic:politics
+2023-06-01 23:22:03,820 - INFO - iteration:302
+2023-06-01 23:22:03,820 - INFO - total cases:194/200
+2023-06-01 23:23:01,843 - INFO - execution time:58.02s
+
+2023-06-01 23:23:01,844 - INFO - ###########################
+2023-06-01 23:23:01,844 - INFO - selected_topic:politics
+2023-06-01 23:23:01,844 - INFO - iteration:303
+2023-06-01 23:23:01,844 - INFO - total cases:195/200
+2023-06-01 23:24:00,332 - INFO - execution time:58.49s
+
+2023-06-01 23:24:00,332 - INFO - ###########################
+2023-06-01 23:24:00,332 - INFO - selected_topic:politics
+2023-06-01 23:24:00,332 - INFO - iteration:304
+2023-06-01 23:24:00,332 - INFO - total cases:196/200
+2023-06-01 23:24:52,121 - INFO - execution time:51.79s
+
+2023-06-01 23:24:52,121 - INFO - ###########################
+2023-06-01 23:24:52,121 - INFO - selected_topic:politics
+2023-06-01 23:24:52,122 - INFO - iteration:305
+2023-06-01 23:24:52,122 - INFO - total cases:197/200
+2023-06-01 23:25:19,646 - INFO - execution time:27.52s
+
+2023-06-01 23:25:19,647 - INFO - ###########################
+2023-06-01 23:25:19,647 - INFO - selected_topic:politics
+2023-06-01 23:25:19,647 - INFO - iteration:306
+2023-06-01 23:25:19,647 - INFO - total cases:197/200
+2023-06-01 23:26:01,326 - INFO - execution time:41.68s
+
+2023-06-01 23:26:01,326 - INFO - ###########################
+2023-06-01 23:26:01,326 - INFO - selected_topic:politics
+2023-06-01 23:26:01,326 - INFO - iteration:307
+2023-06-01 23:26:01,326 - INFO - total cases:197/200
+2023-06-01 23:27:10,810 - INFO - execution time:69.48s
+
+2023-06-01 23:27:10,810 - INFO - ###########################
+2023-06-01 23:27:10,810 - INFO - selected_topic:politics
+2023-06-01 23:27:10,810 - INFO - iteration:308
+2023-06-01 23:27:10,810 - INFO - total cases:198/200
+2023-06-01 23:28:06,195 - INFO - execution time:55.38s
+
+2023-06-01 23:28:06,195 - INFO - ###########################
+2023-06-01 23:28:06,195 - INFO - selected_topic:politics
+2023-06-01 23:28:06,196 - INFO - iteration:309
+2023-06-01 23:28:06,196 - INFO - total cases:199/200
+2023-06-01 23:28:53,642 - INFO - execution time:47.45s
+

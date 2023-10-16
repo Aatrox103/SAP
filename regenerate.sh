@@ -1,0 +1,9 @@
+python regenerate_case.py --selected_topic fraud --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic politics  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic pornography_sexual_minors  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic race  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic religion  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic suicide  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic terrorism  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python regenerate_case.py --selected_topic violence  --score_filename_prefix alpaca_13B_finetune2 --expected_cases 30
+python generate_finetune_data.py --filename_prefix alpaca_13B_finetune2 --expected_cases 30 --init_bool 0

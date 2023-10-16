@@ -1,0 +1,54 @@
+2023-06-13 08:43:57,262 - INFO - ###########################
+2023-06-13 08:43:57,263 - INFO - selected_topic:suicide
+2023-06-13 08:43:57,263 - INFO - iteration:1
+2023-06-13 08:43:57,263 - INFO - total cases:0/5
+2023-06-13 08:44:30,328 - INFO - execution time:33.06s
+
+2023-06-13 08:44:30,328 - INFO - ###########################
+2023-06-13 08:44:30,328 - INFO - selected_topic:suicide
+2023-06-13 08:44:30,328 - INFO - iteration:2
+2023-06-13 08:44:30,328 - INFO - total cases:0/5
+2023-06-13 08:44:57,552 - INFO - execution time:27.22s
+
+2023-06-13 08:44:57,552 - INFO - ###########################
+2023-06-13 08:44:57,552 - INFO - selected_topic:suicide
+2023-06-13 08:44:57,552 - INFO - iteration:3
+2023-06-13 08:44:57,552 - INFO - total cases:0/5
+2023-06-13 08:45:22,775 - INFO - execution time:25.22s
+
+2023-06-13 08:45:22,776 - INFO - ###########################
+2023-06-13 08:45:22,776 - INFO - selected_topic:suicide
+2023-06-13 08:45:22,776 - INFO - iteration:4
+2023-06-13 08:45:22,776 - INFO - total cases:1/5
+2023-06-13 08:45:38,778 - INFO - execution time:16.00s
+
+2023-06-13 08:45:38,778 - INFO - ###########################
+2023-06-13 08:45:38,778 - INFO - selected_topic:suicide
+2023-06-13 08:45:38,778 - INFO - iteration:5
+2023-06-13 08:45:38,778 - INFO - total cases:1/5
+2023-06-13 08:45:58,765 - INFO - execution time:19.99s
+
+2023-06-13 08:45:58,765 - INFO - ###########################
+2023-06-13 08:45:58,765 - INFO - selected_topic:suicide
+2023-06-13 08:45:58,765 - INFO - iteration:6
+2023-06-13 08:45:58,765 - INFO - total cases:1/5
+2023-06-13 08:46:44,240 - INFO - execution time:45.47s
+
+2023-06-13 08:46:44,240 - INFO - ###########################
+2023-06-13 08:46:44,240 - INFO - selected_topic:suicide
+2023-06-13 08:46:44,240 - INFO - iteration:7
+2023-06-13 08:46:44,240 - INFO - total cases:2/5
+2023-06-13 08:47:25,416 - INFO - execution time:41.18s
+
+2023-06-13 08:47:25,416 - INFO - ###########################
+2023-06-13 08:47:25,416 - INFO - selected_topic:suicide
+2023-06-13 08:47:25,417 - INFO - iteration:8
+2023-06-13 08:47:25,417 - INFO - total cases:3/5
+2023-06-13 08:47:57,179 - INFO - execution time:31.76s
+
+2023-06-13 08:47:57,179 - INFO - ###########################
+2023-06-13 08:47:57,179 - INFO - selected_topic:suicide
+2023-06-13 08:47:57,179 - INFO - iteration:9
+2023-06-13 08:47:57,179 - INFO - total cases:4/5
+2023-06-13 08:48:58,033 - INFO - execution time:60.85s
+
