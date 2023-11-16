@@ -1,6 +1,6 @@
 # SAP
 
-This is a pytorch implementation of SAP.
+This is the official repo of the paper "Attack Prompt Generation for Red Teaming and Defending Large Language Models" accepted to Findings of EMNLP 2023.
 
 ## Environment Requirement
 
